@@ -84,5 +84,89 @@
    "pan": "muffin",
    "count": 12
   }
+ },
+ {
+  "title": "Easy Pumpkin Muffins",
+  "id": "easy-pumpkin-muffins",
+  "category": "Breads & Muffins",
+  "serves": "12 muffins",
+  "from": "sallysbakingaddiction.com",
+  "pre": [
+   "Preheat oven to 425°F (218°C). Spray a 12-count muffin pan with nonstick spray or line with cupcake liners."
+  ],
+  "notes": [
+   "Source: https://sallysbakingaddiction.com/pumpkin-muffins-recipe/#tasty-recipes-76102"
+  ],
+  "parts": [
+   {
+    "ingredients": [
+     "1 and 3/4 cups (219g) all-purpose flour (spooned & leveled)",
+     "1 teaspoon baking soda",
+     "1 and 1/2 teaspoons ground cinnamon",
+     "1 and 1/2 teaspoons pumpkin pie spice*",
+     "1/4 teaspoon ground ginger",
+     "1/2 teaspoon salt",
+     "1/2 cup (113g/120ml) vegetable oil (or melted coconut oil)",
+     "1/2 cup (100g) granulated sugar",
+     "1/2 cup (100g) packed light or dark brown sugar",
+     "1 and 1/2 cups (340g) canned pumpkin puree (not pumpkin pie filling)",
+     "2 large eggs",
+     "1/4 cup (60g/ml) milk (dairy or nondairy)",
+     "optional: 1 cup (180g) semi-sweet chocolate chips"
+    ],
+    "steps": [
+     {
+      "t": "In a large bowl, whisk the flour, baking soda, cinnamon, pumpkin pie spice, ginger, and salt together until combined. Set aside.",
+      "in": [
+       "i0",
+       "i1",
+       "i2",
+       "i3",
+       "i4",
+       "i5",
+       "i9"
+      ]
+     },
+     {
+      "t": "In a medium bowl, whisk the oil, granulated sugar, brown sugar, pumpkin puree, eggs, and milk together until combined. Pour the wet ingredients into the dry ingredients, and then whisk everything together just until combined and no flour pockets remain. Fold in the chocolate chips, if using.",
+      "in": [
+       "s0",
+       "i6",
+       "i7",
+       "i8",
+       "i10",
+       "i11",
+       "i12"
+      ]
+     },
+     {
+      "t": "Spoon the batter into liners, filling them all the way to the top.",
+      "in": [
+       "s1"
+      ]
+     },
+     {
+      "t": "Bake for 5 minutes at 425°F, then, keeping the muffins in the oven, reduce the oven temperature to 350°F (177°C). Bake for an additional 16–17 minutes or until a toothpick inserted in the center comes out clean. The total time these muffins take in the oven is about 21–22 minutes, give or take. Allo",
+      "in": [
+       "s2"
+      ]
+     },
+     {
+      "t": "Cover tightly and store at room temperature for up to 1 week.",
+      "in": [
+       "s3"
+      ]
+     }
+    ]
+   }
+  ],
+  "bake": {
+   "temp": 425,
+   "unit": "F",
+   "min": 16,
+   "max": 17,
+   "pan": "muffin",
+   "count": 12
+  }
  }
 ]
