@@ -1,0 +1,23 @@
+# Rebuilds data/recipes.json whenever the recipe source files change.
+name: Build recipes
+
+on:
+  push:
+    paths: ["src/recipes/**", "tools/build.py", "assets/pans.json"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/build.py
+      - name: Commit if changed
+        run: |
+          git config user.name "cookbook-bot"
+          git config user.email "cookbook-bot@users.noreply.github.com"
+          git add data/recipes.json
+          git diff --cached --quiet || (git commit -m "Rebuild recipes.json" && git push)
