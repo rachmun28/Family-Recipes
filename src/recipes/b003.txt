@@ -1,0 +1,278 @@
+=== Baked Omelet
+cat: Breakfast
+serves: 3-4
+from: Jean Neal
+scan: Baked Omelet (Jean Neal) pg1.jpg
+scan: Baked Omelet (Jean Neal) pg2.jpg
+pre: Preheat oven to 350°F
+- 2 tbsp butter
+- 1 1/2 tbsp cornstarch
+- 1 tbsp onion, chopped fine
+- 1 tsp salt
+- dash of pepper & paprika
+- 1 cup milk
+- 4 egg yolks
+- 4 egg whites
+- 1/2 cup chopped ham
+- 1/2 tsp dry mustard
+* melt; remove from heat | 1
+> stir in | 2-5
+> cook on low heat 3 min
+> gradually add; stir & cook until thick | 6
+> remove from heat; cool slightly
+* beat well | 7
+* add | s5 s6 9 10
+* beat stiff | 8
+* fold in | s7 s8
+> pour into a greased baking dish; bake at 350°F until set
+
+=== Banana Cake with Cream Cheese Icing
+cat: Cakes
+serves: about 8
+from: Robin Hood
+scan: Banana Cake with Cream Cheese Frosting.jpg
+bake: 350F 30-40 round-9*2
+pre: Preheat oven to 350°F
+pre: Grease two 9-inch round cake pans
+--- Cake
+- 2 cups all-purpose flour
+- 1 1/2 tsp baking powder
+- 1 tsp baking soda
+- 1/2 tsp salt
+- 1 1/2 cups granulated sugar
+- 1/2 cup margarine
+- 1/4 cup buttermilk or sour milk
+- 1 cup mashed ripe banana (3 or 4 bananas)
+- 2 eggs
+- 1 tsp vanilla
+- 1/4 cup buttermilk or sour milk
+* combine in a large mixer bowl | 1-4
+> add; beat on medium speed 2 min | 5-8
+> add; beat on medium speed 1 min | 9-11
+> spread evenly in pans
+> {bake}, until a toothpick comes out clean
+> cool 10 min; remove from pans and cool completely
+--- Frosting
+- 2 pkgs (250 g each) cream cheese, softened
+- 1/4 cup margarine
+- 1 1/2-2 cups icing sugar, sifted
+* beat on medium speed | 1 2
+> add, beating until smooth | 3
+--- Assemble
+* fill and frost the layers; decorate as desired | p1 p2
+note: Frosted cake freezes well, but leave the decoration until serving.
+
+=== Chocolate Banana Coffee Cake
+cat: Cakes
+serves: about 12
+from: Robin Hood
+scan: Banana Chocolate Coffee Cake.jpg
+bake: 350F 45-50 rect-13x9
+pre: Preheat oven to 350°F
+pre: Grease a 13 × 9-inch cake pan
+- 1 cup butter, softened
+- 2 cups granulated sugar
+- 2 eggs, beaten
+- 1 tsp vanilla
+- 2 1/2 cups mashed ripe bananas (about 5)
+- 3 cups all-purpose flour
+- 2 tsp baking powder
+- 2 tsp baking soda
+- 1 cup sour cream
+- 1/2 cup firmly packed brown sugar
+- 1 tsp cinnamon
+- 1 pkg (300 g) semi-sweet chocolate chips
+* cream on medium speed | 1 2
+> add; beat until smooth | 3
+> add; mix until smooth | 4 5
+* sift together | 6-8
+* add alternately, ending with dry ingredients | s3 s4 9
+* combine | 10 11
+* layer: half the batter, half the sugar mix, half the chips; repeat | s5 s6 12
+> {bake}
+note: When bananas ripen, freeze them in their skins until you have 4 or 5 for this cake. Freezes very well.
+
+=== Banana Coffee Cake
+cat: Cakes
+serves: 1 cake
+scan: Banana Coffee Cake.jpg
+bake: 350F 35-45 rect-13x9
+pre: Preheat oven to 350°F
+pre: Lightly butter a 13 × 9-inch pan
+- 1 cup well-mashed bananas (2 to 3)
+- 1/2 cup sour cream
+- 2 tbsp hot water
+- 2 tbsp instant coffee granules
+- 2 1/4 cups cake & pastry flour
+- 1 tsp baking soda
+- 1 tsp salt
+- 1 tsp cinnamon
+- 1/2 tsp ground nutmeg
+- 1 1/3 cups granulated sugar
+- finely grated peel of 1 orange
+- 1/2 cup butter, at room temperature
+- 2 eggs
+- 1 tsp vanilla extract
+- icing sugar (optional)
+* stir together | 1 2
+* stir until dissolved | 3 4
+* add to banana mixture | s1 s2
+* sift together | 5-9
+* beat until light & fluffy | 10-12
+> beat in one at a time | 13
+> beat in | 14
+* beat in alternately, starting and ending with flour | s7 s4 s3
+> turn into pan; {bake}, until a tester comes out clean
+> cool in pan 10 min, then on a rack
+> dust with | 15
+note: Can be frozen. Shortcut: make a 400 g banana-walnut cake mix, dissolving 1 tbsp instant coffee in the water, and stir in the grated peel of 1 orange, 1 tsp cinnamon and ½ tsp nutmeg.
+
+=== Basic Shortbread
+cat: Cookies
+serves: 1 pan (8 wedges)
+scan: Basic Shortbread.jpg
+scan: Basic Shortbread 2.jpg
+bake: 325F 50 round-9
+pre: Butter an 8½-inch cake pan
+pre: Oven 325°F
+- 8 oz unsalted butter, room temperature
+- 1/2 cup icing sugar
+- 1 tsp vanilla
+- 2 cups all-purpose flour
+- 3/4 tsp coarse salt
+* sift dry ingredients | 4 5
+* cream till fluffy | 1
+> add | 2
+> add | 3
+> add flour mix | s1
+> press dough into pan (or, if rolling out shapes, chill till firm, 1 hr)
+> {bake} (¼-inch-thick cutouts: 20–25 min)
+> cool; cut into wedges
+note: Chocolate: add ½ cup cocoa. Black & white: roll half the plain dough ¼ inch thick and the chocolate dough ¼ inch thick, stack, cut into triangles and bake till firm.
+note: Christmas tree sandwiches: cut shapes, cut a hole in half of them, bake; spread with jam and top with a cut-out one.
+note: Almond stars: add ½ cup puréed blanched almonds and 1 tsp almond extract; cut star shapes, bake, dust with icing sugar.
+note: Ginger: replace the sugar with ½ cup dark brown sugar; add 1 tsp ginger, 1 tsp cinnamon, a pinch of cloves and a pinch of pepper. Roll ½ inch thick, cut shapes, sprinkle with crystal sugar; about 30 min.
+note: Hazelnut: add ½ cup finely chopped hazelnuts or pecans; roll into 1-inch balls; 20–25 min.
+note: Rosemary pine nut: add ½ cup chopped pine nuts and 2 tbsp finely chopped rosemary; roll ¼ inch thick, use leaf cutters; 15–20 min.
+note: Candied ginger: add 2 tsp ginger, ½ tsp ground white pepper and ½ cup finely chopped candied ginger; press into an 8-inch round, sprinkle with ¼ cup chopped ginger and 1 tbsp crystal sugar; 30–40 min.
+
+=== Bean Salad
+cat: Salads & Dressings
+serves: 8
+from: Jen
+scan: Bean Salad (Jen) pg1.jpg
+scan: Bean Salad (Jen) pg2.jpg
+--- Salad
+- 1 can (14 oz) yellow beans, drained & rinsed
+- 1 can (14 oz) green beans, drained & rinsed
+- 1 can mushrooms, drained & rinsed
+- 1 can Stokely Salad Bar beans
+- 1 white onion, sliced
+- 1 green pepper, sliced
+* combine in a bowl | 1-6
+--- Marinade
+- 1/2 cup red wine vinegar
+- 1/4 cup vegetable oil
+- 1/3 cup granulated sugar
+- 1/3 cup brown sugar
+- 1 tsp freshly ground pepper
+- 1/2 tsp salt
+* mix until sugar dissolves | 1-6
+--- Finish
+* pour marinade over salad; toss; refrigerate | p1 p2
+note: Jen uses ¼ cup each of the white and brown sugar.
+
+=== Beef Casserole (Crockpot)
+cat: Beef
+serves: 4-6
+scan: Beef Casserole-Crockpot.jpg
+- 2 lb stew beef
+- 1 pkg dry onion soup mix
+- 1/2 cup red wine
+- 1 can cream of mushroom soup
+- 1 can mushrooms
+* combine; mix well | 1-5
+> put in slow cooker
+> cook 8–12 hrs on low (or 3–4 hrs on high)
+
+=== Beef Cooking Guide
+cat: Kitchen Reference
+from: Beef Information Centre
+scan: Beef Cooking Chart.jpg
+method: Grades: AAA, AA and A are Canada's top grades; the difference is marbling. AAA has the most and is the juiciest and most flavourful. Aging (3–21 days) improves tenderness — look for beef aged at least 10–14 days.
+method: Tender roasts (rib, sirloin, tenderloin): place fat side up on a rack in a roasting pan, no lid, no liquid. Season; insert a meat thermometer into the centre (not touching fat or bone). Roast at 325°F (160°C): rare 20 min/lb (45 min/kg), medium 25 min/lb (55 min/kg), well 30 min/lb (65 min/kg).
+method: Medium-tender roasts (round, sirloin tip, rump, hip): place fat side up on a rack without lid; season; insert thermometer. Add 1½ cups (375 mL) water to the pan, put the roast in a 500°F (260°C) oven; after 30 min reduce to 275°F (140°C) and cook another 1¼–1½ hours (until medium done) for a 2–5 lb (1–2.4 kg) roast.
+method: BBQ roasts: tender cuts — season, insert thermometer, grill fat side up over a drip pan in a closed BBQ over indirect medium heat. Medium-tender cuts — pierce all over with a fork and marinate 12–48 hours in the fridge first; cook only to rare or medium.
+method: Pot roasts & stew (cross rib, blade, shoulder, brisket, short ribs, stew cubes): season and coat with flour and seasonings; brown on all sides in a little oil. Add 1–2 cups (250–500 mL) liquid (water, wine, juice, broth or canned soup) for roasts, or 4 cups/lb (1 L/500 g) for stew/short ribs. Cover and simmer on the stove or in a 325°F (160°C) oven until tender — at least 3 hrs for pot roasts, 2 hrs for stews/short ribs. Add vegetables during the last ½ hour.
+method: Burgers: combine 1 lb (500 g) ground beef with a beaten egg and ¼ cup (50 mL) bread crumbs or oatmeal if desired. Shape 4–6 even patties ½ inch (1 cm) thick; don't overhandle. Broil, grill or pan-fry until well done (about 5 min per side) — no pink showing, juices clear.
+method: Tender steaks (rib-eye, tenderloin, T-bone, wing, striploin, sirloin): season with pepper and garlic; broil or grill on high heat, turning once or twice with tongs. ½–¾ inch thick: rare 3–5, medium 5–7, well 7–9 min per side. 1 inch thick: rare 5–7, medium 7–9, well 9–11 min per side.
+method: Medium-tender steaks (round, sirloin tip, blade, cross rib, flank) — broil/BBQ: pierce with a fork, marinate in ½–1 cup liquid 12–24 hrs in the fridge, cook only to rare or medium. Simmer: brown in a lightly oiled pan, add ½–1 cup water, wine, juice, broth or soup, cover and simmer on the stove or in a 325°F (160°C) oven until tender (at least 1½ hours).
+
+=== Biscotti
+cat: Cookies
+serves: about 3 dozen
+scan: Biscotti.jpg
+pre: Preheat oven to 400°F
+pre: Grease a cookie sheet
+- 1 cup butter or margarine
+- 1 cup sugar
+- 4 extra-large eggs (save 1 yolk for brushing)
+- 1/4 tsp almond extract
+- 1/4 tsp vanilla
+- 1 tsp lemon juice
+- rind of 1 orange & 1 lemon
+- 3 1/2 cups all-purpose or cake & pastry flour
+- 1 full tsp baking powder
+- pinch of salt
+- nuts or fruit (almonds, hazelnuts, walnuts, pecans, chocolate chips, cranberries, raisins…)
+* sift | 8-10
+* cream | 1 2
+> add; mix well | 3
+> add flavourings; mix | 4-7
+> add slowly; mix well | s1
+> add | 11
+> divide in 2 and form into rolls
+> place on cookie sheet; brush with the reserved yolk
+> bake at 400°F 15–18 min
+> cool briefly; cut rolls diagonally
+> bake again at 300–350°F 15–18 min, until golden
+
+=== Fluffy Biscuits
+cat: Breads & Muffins
+serves: 12 biscuits
+scan: Biscuits Fluffy.jpg
+bake: 450F 8-10 sheet
+pre: Preheat oven to 450°F
+pre: Grease a baking sheet
+- 2 cups flour
+- 4 tsp baking powder
+- 3 tsp sugar
+- 1/2 tsp salt
+- 1/2 cup shortening
+- 1 egg
+- 2/3 cup milk
+* combine | 1-4
+> cut in | 5
+* beat | 6 7
+* stir into dry ingredients | s2 s3
+> knead 20 times
+> roll ¾ inch thick; cut; place on sheet
+> {bake}
+
+=== Blender Salmon Pie
+cat: Fish & Seafood
+serves: 6
+scan: Blender Salmon Pie.jpg
+bake: 325F 45-50 pie-9
+pre: Preheat oven to 325°F
+pre: Grease a pie plate
+- 4 oz cream cheese
+- 1 1/2 cups homogenized milk
+- 4 eggs
+- 1 can (7 oz) salmon, drained
+- 4 green onions including tops, sliced
+- 1/4 tsp tarragon, crumbled
+* blend till smooth | 1-3
+> pour into pie plate
+> stir in | 4-6
+> {bake}, until centre is set

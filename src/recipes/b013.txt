@@ -1,0 +1,298 @@
+=== Corn Stuffing Balls
+cat: Sides & Vegetables
+serves: 7-8 balls
+scan: Corn stuffing Balls pg1.jpg
+scan: Corn Stuffing Balls pg2.jpg
+bake: 375F 25 rect-11x7
+pre: Preheat oven to 375°F
+- 1/2 cup chopped onion
+- 1/2 cup chopped celery
+- 4 tbsp butter or margarine
+- 12 oz cream-style corn
+- 1/2 cup water
+- 1 tsp poultry seasoning
+- 1/8 tsp pepper
+- 1 pkg (8 oz, 3 cups) herb-seasoned stuffing mix
+- 3 eggs, slightly beaten
+- 1/2 cup butter or margarine, melted
+* cook in the butter | 1-3
+> add; bring to a boil | 4-7
+> pour over; toss together lightly | 8
+> stir in | 9
+> shape into 7 or 8 balls; place in a baking dish
+> pour over | 10
+> refrigerate if desired, then {bake}
+
+=== Greek Salad with Broccoli and Cauliflower
+cat: Salads & Dressings
+serves: 12
+scan: Greek Salad with Broccoli and Cauliflower.jpg
+scan: Cornmeal and Parmesean Muffins.jpg
+--- Salad
+- 1 head cauliflower, cut in florets
+- 1 large bunch broccoli, cut in florets
+- 2 tomatoes, cut in large chunks
+- 1 cup black olives, preferably kalamata
+- 1 lb feta cheese, cut in small cubes
+- 4 hard-cooked eggs, cut in wedges
+* cook in boiling water, uncovered, 5 min until tender-crisp; drain, cool, pat dry | 1
+* cook the same way; drain, cool, pat dry | 2
+* combine in a large bowl | s1 s2 3-6
+--- Dressing
+- 1/4 cup red wine vinegar
+- 1 clove garlic, minced
+- 1 tsp salt
+- 1/2 tsp freshly ground pepper
+- 1/2 tsp crumbled dried oregano
+- 3/4 cup olive oil, preferably extra virgin
+* whisk together | 1-5
+> whisk in | 6
+--- Finish
+* pour over vegetables; toss gently | p1 p2
+> marinate a few hours at room temperature or overnight in the fridge
+> bring to room temperature before serving
+
+=== Cornmeal Muffins
+cat: Breads & Muffins
+serves: 12 muffins
+scan: Cornmeal Muffins.jpg
+bake: 375F 15-20 muffin*12
+pre: Preheat oven to 375°F
+pre: Grease muffin tins
+- 1 cup flour
+- 1 tbsp baking powder
+- 1/2 tsp salt
+- 1/2 cup white sugar
+- 1 cup cornmeal
+- 1/2 cup butter
+- 1 egg
+- 3/4 cup milk
+* mix together | 1-4
+> stir in | 5
+* melt | 6
+> add; combine well | 7 8
+* stir together just till moistened | s2 s4
+> fill tins; {bake}
+
+=== Old Bay Crab Cakes
+cat: Fish & Seafood
+serves: 4
+from: Old Bay
+scan: Crab Cakes (Old Bay).jpg
+- 2 slices white bread, crusts removed, crumbled
+- 2 tbsp mayonnaise
+- 2 tsp Old Bay seasoning
+- 2 tsp parsley flakes
+- 1/2 tsp prepared yellow mustard
+- 1 egg, beaten
+- 1 lb lump crabmeat
+* mix in a large bowl until well blended | 1-6
+> gently stir in | 7
+> shape into 4 patties
+> broil 10 min without turning, or fry until golden on both sides
+> sprinkle with more Old Bay, if desired
+
+=== Crab-Filled Crêpes
+cat: Fish & Seafood
+serves: 4 (8 crêpes)
+scan: Crab Filled Crepes pg1.jpg
+scan: Crab Filled Crepes pg2.jpg
+bake: 350F 10-15 rect-11x7
+pre: Preheat oven to 350°F
+- 6 oz pkg frozen crab meat
+- 1/4 cup butter or margarine
+- 1/3 cup chopped onion
+- 1 cup thinly sliced celery
+- 1 cup chopped mushrooms
+- 3 tbsp flour
+- 1 1/3 cups milk
+- 1/3 cup Swiss cheese
+- 1/4 tsp salt
+- 1/8 tsp pepper
+- dash nutmeg
+- 8 cooked crêpes
+- Parmesan cheese
+* thaw; keep the liquid; separate into chunks | 1
+* melt | 2
+> sauté; lift out vegetables with a slotted spoon | 3-5
+> stir flour into the pan until smooth | 6
+> add milk and crab liquid; cook until thick | 7
+> stir in | 8-11
+* toss crab and the sautéed vegetables with half the sauce | s1 s6
+> roll in | 12
+> place in a shallow baking dish; pour the rest of the sauce over
+> sprinkle with | 13
+> {bake}
+
+=== Crackle Ginger Cookies
+cat: Cookies
+serves: 4 dozen
+scan: Crackle Ginger Cookies.jpg
+bake: 350F 13-15 sheet
+pre: Preheat oven to 350°F
+pre: Grease cookie sheets
+- 1/2 cup butter
+- 1/2 cup white sugar
+- 1/2 cup molasses
+- 1 egg
+- 1 tsp vanilla
+- 2 cups flour
+- 3 tsp ginger
+- 2 tsp cinnamon
+- 1 tsp baking soda
+- 1/2 tsp salt
+- sugar, for rolling
+* beat with a mixer until creamy | 1 2
+> beat in | 3-5
+* stir together | 6-10
+* gradually stir into butter mixture | s2 s3
+> form into 1-inch balls; roll in | 11
+> place 2 inches apart; {bake}
+> cool on wire racks
+note: These cookies freeze well.
+
+=== Crackled Crescents
+cat: Cookies
+serves: about 7 dozen
+scan: Crackled Crescents.jpg
+scan: Turtle Cookies.jpg
+bake: 375F 8-10 sheet
+pre: Preheat oven to 375°F
+- 3 1/2 cups flour
+- 1 tsp baking powder
+- 1 cup butter, softened
+- 1 pkg (8 oz) cream cheese, softened
+- 2 cups sugar
+- 1 egg
+- 1 tsp vanilla
+- 1/4 tsp almond extract
+- 1/4 tsp coconut flavouring (optional)
+- 1 cup chocolate chips
+- 1 cup chocolate chips
+- 2 tbsp shortening
+- chopped nuts or coconut
+* combine; set aside | 1 2
+* beat | 3 4
+> add; beat till fluffy | 5
+> add; beat well | 6-9
+> gradually add flour mixture | s1
+> add | 10
+> cover; refrigerate till firm
+> shape into 1-inch balls, roll into logs and pinch the ends into crescents
+> place on ungreased sheets; {bake}, till edges are firm; cool
+* melt together | 11 12
+* dip the ends of the cookies in chocolate | s9 s10
+> roll in; set on waxed paper | 13
+
+=== Cranberry Coffee Cake
+cat: Cakes
+serves: 9-12
+from: Cathy Quart
+scan: Cranberry Coffee Cake-Cathy Quart.jpg
+--- Topping
+- 3/4 cup brown sugar
+- 1/2 cup flour
+- 1 tsp cinnamon
+- 1/4 cup butter
+* mix | 1-3
+> cut in | 4
+--- Cake
+- 1/2 cup soft butter
+- 1 cup white sugar
+- 2 eggs
+- 1 tsp vanilla
+- 2 cups flour
+- 1 tsp baking powder
+- 1 tsp baking soda
+- 1/2 tsp salt
+* cream together | 1 2
+> add one at a time | 3
+> add | 4
+* combine | 5-8
+* combine (card continues on a missing page) | s3 s4
+note: Only the first side of this card was scanned, so the rest of the cake ingredients (likely sour cream and cranberries), the pan and the baking time are missing.
+
+=== Cranberry Spinach Salad
+cat: Salads & Dressings
+serves: 4-6
+scan: Cranberry Spinach Salad.jpg
+--- Dressing
+- 1/3 cup olive or vegetable oil
+- 3 tbsp sugar
+- 2 tbsp white balsamic vinegar
+- 1 tbsp sour cream
+- 1/2 tsp Dijon mustard
+* shake well in a jar with a tight lid | 1-5
+--- Salad
+- 1 pkg (6 oz) fresh baby spinach
+- 1 Gala or Golden Delicious apple, cored and diced
+- 1/2 red onion, diced
+- 1 carrot, grated
+- 1 avocado, peeled and diced
+- 1/4 cup light feta cheese, crumbled
+- 1/2 cup chopped pecans, toasted
+- 1/2 cup dried cranberries
+* combine in a bowl | 1-5
+> drizzle with dressing; toss to coat | p1
+> set on plates; sprinkle over the top | 6-8
+> serve immediately
+
+=== Crazy Cake
+cat: Cakes
+serves: 9 squares
+from: Prevention
+scan: Crazy Cake.jpg
+bake: 350F 30 square-8
+pre: Preheat oven to 350°F
+- 1 1/2 cups flour
+- 1 cup sugar
+- 3 tbsp unsweetened cocoa powder
+- 1 tsp baking soda
+- 1/2 tsp salt
+- 3 tbsp vegetable oil
+- 1 tbsp white vinegar
+- 1 tsp vanilla
+- 1 cup cold water
+* sift into an ungreased 8 × 8-inch glass dish | 1-5
+> make 3 hollows; pour oil in one, vinegar in one and vanilla in one | 6-8
+> pour over all; mix thoroughly with a fork | 9
+> {bake}, until a toothpick comes out clean
+note: Lovely with berries on top.
+
+=== Cream Ale Butterscotch Pudding
+cat: Desserts
+serves: 8
+from: Ontario Craft Brewers (The Canadian Press)
+scan: Cream Ale Butterscotch Pudding.jpg
+--- Pudding
+- 3/4 cup sugar
+- 1/4 cup cream ale (from a 341 mL bottle)
+- 1/4 cup heavy cream
+- 1/2 cup packed golden-brown sugar
+- 1/3 cup cornstarch
+- 1 tsp salt
+- 3 cups whole milk
+- 4 large egg yolks
+- 1/4 cup unsalted butter, room temperature, in small pieces
+- 1 tsp vanilla extract
+* simmer in a small pot over medium until it starts to thicken | 1 2
+> swirl until light amber; remove from heat
+> stir in until smooth; set aside | 3
+* mix in a heavy saucepan | 4-6
+> gradually whisk in | 7
+> stir over medium-low until it thickens and boils, ~8 min; remove from heat
+> whisk in caramel | s3
+* whisk to blend | 8
+* temper yolks with 1 cup of the hot mixture, then whisk back into the pan | s7 s8
+> cook on low ~10 min, stirring, until it thickens considerably
+> remove from heat; gradually whisk in | 9 10
+> divide among 8 small beer or parfait glasses; refrigerate
+--- Beer cream
+- rest of the bottle of cream ale
+- 1 cup heavy cream
+- 1 tsp sugar
+- 1/4 tsp vanilla extract
+* boil down in a small pot to a thick syrup, about 1 tbsp | 1
+* whip | 2-4
+* stir in syrup | s1 s2
+> top each glass | p1

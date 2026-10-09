@@ -1,0 +1,169 @@
+=== Layered Nacho Dip
+cat: Appetizers
+serves: 12-16
+scan: Nacho Dip.jpg
+- 250 g cream cheese
+- 1 cup mayonnaise
+- 1 cup sour cream
+- 1 large jar salsa
+- chopped tomatoes and green onions (and olives)
+- shredded cheddar
+* mix together | 1-3
+> spread in a 9 × 13 pan
+> spread over | 4
+> top with | 5
+> top with | 6
+note: Or use a jar of seafood cocktail sauce and cocktail shrimp instead of the salsa, with tomatoes etc. on top.
+
+=== Nanaimo Bars
+cat: Bars & Squares
+serves: 24 bars
+from: Baker's
+scan: Nanaimo Bars.jpg
+--- Base
+- 2 squares semi-sweet chocolate, melted and cooled
+- 1/2 cup butter, softened
+- 2 tbsp granulated sugar
+- 1 tsp vanilla
+- 1 egg
+- 2 cups graham wafer crumbs
+- 1 cup flaked coconut
+- 1/2 cup chopped walnuts
+* combine; mix well | 1-5
+> add; mix well | 6-8
+> press into a 9-inch square pan; chill
+--- Filling
+- 1/4 cup butter, softened
+- 3 tbsp milk
+- 2 tbsp custard powder
+- 2 cups icing sugar
+* combine | 1-3
+> blend in | 4
+> spread over base; chill 15 min | p1
+--- Glaze
+- 4 squares semi-sweet chocolate
+- 1 tbsp butter
+* partially melt over hot water; remove from heat and stir until melted | 1 2
+> spread over custard layer | p2
+> chill; store in the fridge
+
+=== Nutty Chocolate Clusters
+cat: Candy & Fudge
+serves: about 3 dozen
+from: Baker's
+scan: Nanaimo Bars.jpg
+- 8 squares semi-sweet chocolate
+- 1 cup salted peanuts
+- 1 cup flaked coconut, toasted
+* partially melt over hot water; remove from heat and stir until melted | 1
+> add; mix lightly to coat | 2 3
+> drop by teaspoons onto waxed paper
+> chill until firm; store in the fridge
+
+=== Never Fail Shortbread
+cat: Cookies
+serves: 2 dozen
+scan: Never Fail Shortbread.jpg
+bake: 350F 10-15 sheet
+pre: Preheat oven to 350°F
+- 1/2 lb butter
+- 1/2 cup white sugar
+- 2 cups flour
+- 1/4 tsp salt
+- 1/4 tsp baking powder
+* cream, gradually adding sugar; beat well | 1 2
+> combine with | 3-5
+> roll out; cut shapes; decorate
+> place on ungreased sheets; prick with a fork
+> {bake}, until lightly browned at the edges
+
+=== Newburg Sauce
+cat: Sauces & Marinades
+serves: about 1 1/2 cups
+from: Campbell's
+scan: Newburg Sauce.jpg
+- 2 tbsp butter or margarine
+- 1 cup sliced fresh mushrooms
+- 1 can Campbell's Cream of Shrimp soup
+- 1/4 cup light cream
+- 1/4 cup sherry
+* melt in a saucepan | 1
+> brown | 2
+> add; heat, stirring occasionally | 3-5
+> serve over cooked shrimp or lobster
+
+=== Baker's Best No-Bake Chocolate Cheesecake
+cat: Desserts
+serves: 10-12
+from: Baker's
+scan: No Bake Chocolate Cheesecake.jpg
+pre: Grease an 8½-inch springform pan
+- 1/3 cup chopped almonds, toasted
+- 2 pkg (250 g each) cream cheese, softened
+- 1 cup sugar
+- 6 squares semi-sweet chocolate, melted and cooled
+- 1/4 cup cold water
+- 1 envelope (7 g) unflavoured gelatin
+- 1 cup whipping cream, whipped
+* sprinkle over the pan | 1
+* beat on lowest speed until smooth | 2
+> blend in | 3 4
+* sprinkle gelatin on the cold water; stand 5 min; stir over low heat until dissolved | 5 6
+* blend warm gelatin into cheese mixture | s3 s4
+> fold into | 7
+* pour into the pan | s1 s6
+> chill at least 3 hrs
+> drizzle with melted chocolate and press almonds on the sides, if desired
+note: Leftovers can be frozen.
+
+=== Oatmeal Bread
+cat: Breads & Muffins
+serves: 1 loaf (8½ × 4½-inch)
+scan: Oatmeal Bread.jpg
+bake: 375F 40-45 loaf-8
+- 2 1/2 tsp dry yeast (1 pkg)
+- pinch sugar
+- 1/4 cup warm water
+- 1 1/2 cups rolled oats
+- 1 1/2 cups hot water
+- 1 tsp salt
+- 2 tbsp oil or soft butter
+- 2 tbsp brown sugar (optional)
+- 1 cup whole wheat flour
+- 2 1/4 cups all-purpose or bread flour
+* dissolve until foamy, ~5 min | 1-3
+* soak until lukewarm | 4 5
+* mix in with part of the white flour | s1 s2 6-9 10
+> knead in the rest of the flour until smooth and elastic, ~8 min
+> turn in a buttered bowl; enclose in a plastic bag; let rise until double
+> punch down (let rise again if you like)
+> knead slightly; shape into a loaf in the pan
+> cover loosely; let rise until 1½ inches above the rim
+> {bake}
+> remove from pan; cool on a rack
+
+=== Oatmeal Chocolate Chip Cookies (Laura)
+cat: Cookies
+serves: about 5 dozen
+from: Laura
+scan: Oatmeal Chocolate Chip Cookies (Laura).jpg
+scan: Oatmeal Chocolate Chip Cookies pg2.jpg
+bake: 375F 10 sheet
+pre: Preheat oven to 375°F
+pre: Grease a baking sheet
+- 1 cup shortening
+- 1 cup brown sugar
+- 1 cup white sugar
+- 2 beaten eggs
+- 2 tbsp water
+- 1 tsp vanilla
+- 1 1/2 cups all-purpose flour
+- 1 tsp baking soda
+- 1 tsp salt
+- 3 cups rolled oats
+- 1 1/4 cups chocolate chips or Spanish peanuts
+* cream thoroughly | 1-3
+> stir in | 4-6
+* sift together | 7-9
+* add, with oats and chips | s2 s3 10 11
+> drop onto the sheet; {bake}

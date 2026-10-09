@@ -1,0 +1,167 @@
+=== Play Dough
+cat: Kitchen Reference
+tags: kids, not edible
+serves: 1 batch
+scan: Play Dough.jpg
+- 1 cup flour
+- 1/2 cup salt
+- 1 cup water
+- 2 tsp cream of tartar
+- 2 tbsp oil
+- food colouring
+* mix in a pot | 1-6
+> cook until it can be kneaded
+> keep in a covered container
+note: For playing, not eating.
+
+=== VIA Rail Canada's Plum Pudding
+cat: Desserts
+serves: 12-16
+from: VIA Rail Canada, adapted from Bill Nellis's 1930s recipe (Toronto Star)
+scan: Plum Pudding and Hot Brandy Sauce.jpg
+--- Pudding
+- 1 cup Thompson raisins
+- 1 cup sultana raisins
+- 1 cup currants
+- 2 oz dark rum
+- 2 oz stout (such as Guinness)
+- juice and finely grated zest of 1 lemon
+- juice and finely grated zest of 1 orange
+- 1/2 tsp vanilla extract
+- 1/4 tsp almond extract
+- 2 large eggs
+- 1 Granny Smith apple, peeled and finely chopped
+- 2/3 cup chopped mixed peel
+- 1 cup frozen chopped beef suet, thawed
+- 1/2 cup finely chopped walnuts
+- 1/2 cup finely chopped almonds
+- 1 1/2 cups dried breadcrumbs
+- 1 cup all-purpose flour
+- 3/4 cup packed brown sugar
+- 1/2 tsp each baking soda and ground cinnamon
+- 1/4 tsp each ground ginger, nutmeg, allspice and salt
+* steam 5 min over simmering water to soften; move to a bowl or bag | 1-3
+> add; cover; stand at room temperature at least 12 hrs, stirring | 4-9
+* beat on high until soft peaks | 10
+> stir in | 11 12
+> add raisin mixture; mix well | s2
+* stir together | 13-20
+* stir into egg mixture (8–10 cups) | s5 s6
+> pack into a greased heatproof mould or bowl; tie a tea towel over (or use four 19-oz cans, 1 inch headspace, parchment and foil)
+> stand upright in a tall saucepan; fill ¾ up the sides with water; boil, then simmer covered — 5 hrs for a large pudding, 4 for small
+> cool on a rack; stand 30 min before unmoulding (or cool, cover and refrigerate)
+--- Hot brandy sauce
+- 2 cups packed brown sugar
+- 1/4 cup unsalted butter
+- 2 cups water
+- grated zest of 1 lemon
+- 2 tbsp cornstarch dissolved in 2 tbsp cold water
+- 2 oz brandy
+* cook over medium-high until the sugar melts | 1-4
+> stir in; stir until thick | 5
+> stir in | 6
+--- Serve
+* slice or crumble pudding; serve with sauce | p1 p2
+note: Reheat in the microwave or back in the mould in a water bath. Tradition: add coins to the mixture (warn guests!), or flame it with hot rum or whisky at the table.
+
+=== Polynesian Pineapple Chicken (Slow Cooker)
+cat: Chicken & Poultry
+serves: 4-6
+scan: Polynesian Pineapple Chicken.jpg
+scan: Polynesian Pineapple Chicken Pg 2.jpg
+- 4-6 boneless skinless chicken breast halves
+- salt, pepper and paprika
+- 1 can (20 oz) unsweetened sliced pineapple, drained
+- 2 tbsp Dijon mustard
+- 2 tbsp soy sauce
+- 1 clove garlic, minced
+* place in the pot | 1
+> sprinkle with | 2
+> pour over | 3
+* combine | 4-6
+* pour over — don't stir | s3 s4
+> cook on low 7–8 hrs (or high 3–4)
+
+=== Pork & Apple Sauté
+cat: Pork
+serves: 4
+scan: Pork Apple Saute.jpg
+- 1 tbsp vegetable oil
+- 1 lb boneless pork loin chops, ¾ inch thick, fat trimmed
+- salt and black pepper
+- 1/2 tbsp vegetable oil
+- 1 firm unpeeled apple, in 1/4-inch wedges
+- 1 garlic clove, minced
+- 1/2 cup chicken broth
+- 1 tsp grainy Dijon mustard
+- 1/2 tsp thyme
+* heat in a large frying pan over medium-high | 1
+> season pork and sauté ~4 min per side until golden and cooked; keep warm | 2 3
+> reduce to medium; add oil if needed | 4
+> add; cook, stirring, ~1 min until golden | 5 6
+> add, scraping up the bits | 7-9
+> boil, then simmer until apples are tender, ~3 min; season
+> return pork and juices; heat through
+> serve pork with apples and sauce drizzled over
+
+=== Sweet 'n Sour Pork Chops (Mom)
+cat: Pork
+serves: 4
+from: Mom
+scan: Sweet'n Sour Pork Chops (Mom).jpg
+scan: Pork Chops  Sweet'n Sour.jpg
+- pork chops
+- 1/2 cup brown sugar
+- salt
+- pepper
+- 2 1/2 tbsp cornstarch
+- juice of 1 lemon
+- 1/2 cup vinegar
+- 1 can consommé soup
+* brown | 1
+* blend | 2-5
+> add | 6-8
+* add to the chops | s1 s3
+> simmer ~1 hr, adding water if necessary
+
+=== Pork Chops with Garlic
+cat: Pork
+serves: 4
+scan: Pork Chops.jpg
+- pork chops
+- 3 chicken bouillon cubes
+- 3 garlic cloves, mashed
+- 1 tbsp vinegar
+- water
+* brown | 1
+> sprinkle over the chops | 2 3
+> add | 4
+> add | 5
+> cover and steam until tender
+note: The card is a quick scribble: “brown chops — sprinkle 3 chicken bouillon cubes and 3 garlic cloves mashed over chops — lid & steam — 1 tbsp vinegar — add water”.
+
+=== Pork with Maple Glaze
+cat: Pork
+serves: 4
+scan: Pork with Maple Glaze.jpg
+- 2 tbsp oil
+- 2 shallots, chopped
+- 2 cloves garlic, minced
+- 1 tbsp fresh gingerroot, minced
+- 1/3 cup rice vinegar (or 1/4 cup white vinegar)
+- 1/4 cup apple juice
+- 1 lb pork filet
+- 3 tbsp maple syrup
+- 1 tbsp soy sauce
+- 1/4 cup apple juice
+- few drops Tabasco (optional)
+- salt and pepper, to taste
+* heat in a pan | 1
+> sauté | 2-4
+> add; mix well | 5 6
+> pour over meat in a casserole or bag; marinate 1–2 hrs in the fridge, turning | 7
+* mix; set aside | 8-12
+* fold in the small end of the filet; barbecue covered, 5 inches from the heat, ~10 min, turning and basting | s4 s5
+> it's done at 160°F inside
+> serve with egg noodles and boiled turnip
+note: Pork tastes better served still a bit pink.

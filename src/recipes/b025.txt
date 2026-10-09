@@ -1,0 +1,187 @@
+=== Mocha Cookie Pretzels
+cat: Cookies
+serves: 4 dozen
+scan: Mocha Cookie Pretzels.jpg
+bake: 400F 7-9 sheet
+pre: Lightly grease baking sheets
+--- Cookies
+- 1/2 cup butter, softened
+- 1/2 cup sugar
+- 1 egg
+- 2 squares (1 oz each) unsweetened chocolate, melted and cooled
+- 1 tsp vanilla extract
+- 2 cups cake flour
+- 1/4 tsp salt
+* cream | 1 2
+> beat in | 3
+> beat in | 4 5
+* combine | 6 7
+* gradually add to creamed mixture | s3 s4
+> cover; refrigerate 1 hr until easy to handle
+> divide into fourths, then each into 12 pieces
+> roll each into a 6-inch rope; twist into a pretzel; place 1 inch apart
+> bake at 400°F 7–9 min, until set; cool on racks
+--- Glaze
+- 1 cup (6 oz) semi-sweet chocolate chips
+- 1 tsp shortening
+- 1 tsp light corn syrup
+- 1 cup icing sugar
+- 3-5 tbsp strong brewed coffee
+* melt in the microwave; stir smooth | 1-3
+> stir in, adding enough coffee for dipping consistency | 4 5
+--- Finish
+- 2 squares (1 oz each) white baking chocolate, chopped
+- green coloured sugar (optional)
+* dip cookies in glaze; let excess drip off; set on waxed paper | p1 p2
+* melt in the microwave; stir smooth | 1
+* drizzle over cookies; decorate with green sugar; let set | s1 s2 2
+
+=== Moulded Party Dip
+cat: Appetizers
+serves: about 3 cups
+scan: Moulded Party Dip (Shrimp).jpg
+- 1 can mushroom soup
+- 1 pkg (16 oz) cream cheese
+- 1/4 cup cold water
+- 1 envelope gelatin
+- 1/2 cup celery, chopped
+- 1/2 cup onion, chopped
+- dash curry
+- 1 can turkey, ham, tuna or shrimp
+* heat together | 1 2
+* dissolve | 3 4
+* combine | s1 s2 5-8
+> put in a mould; chill
+
+=== Piña Colada Muffins
+cat: Breads & Muffins
+serves: 12 muffins
+scan: Muffins Pina Colada.jpg
+bake: 375F 20 muffin*12
+pre: Preheat oven to 375°F
+pre: Grease muffin cups
+- 1/2 cup white sugar
+- 1 egg
+- 1/4 cup margarine
+- 1 cup sour cream
+- 1 tsp rum extract
+- 1 1/2 cups all-purpose flour
+- 1 tsp baking powder
+- 1/2 tsp baking soda
+- 1/2 tsp salt
+- 1 small can crushed pineapple, drained
+- 1/2 cup coconut
+* beat until blended | 1-5
+* stir together | 6-9
+* add, stirring until barely blended | s1 s2
+> add | 10 11
+> fill muffin cups; {bake}
+
+=== Winnie's Rhubarb Muffins
+cat: Breads & Muffins
+serves: 12 muffins
+from: Winnie
+scan: Muffins Rhubarb.jpg
+bake: 375F 20 muffin*12
+pre: Preheat oven to 375°F
+pre: Grease muffin cups
+- 1 1/4 cups all-purpose flour
+- 1 1/2 tsp baking powder
+- 1 tsp salt
+- 1/4 cup white sugar
+- 1/4 cup brown sugar
+- 1 large egg
+- 1/2 cup milk
+- 1/4 cup oil
+- 1 tsp almond flavouring
+- 1 1/2 cups diced rhubarb
+- white or powdered sugar, for the tops
+* mix | 1-5
+* beat | 6
+> add | 7-9
+* pour over dry ingredients; stir to moisten | s3 s1
+> fold in | 10
+> fill cups; {bake}
+> dip the hot tops in sugar (or sprinkle before baking) | 11
+note: Peaches or other fruit in season are just as delicious.
+
+=== Mushroom Crescents
+cat: Appetizers
+serves: 50-60
+scan: Mushroom Crescents pg1.jpg
+scan: Mushroom Crescents pg2.jpg
+bake: 450F 15 sheet
+--- Pastry
+- 9 oz cream cheese
+- 1/2 cup butter
+- 1 1/2 cups flour
+* soften | 1 2
+> combine until smooth | 3
+> wrap; chill at least 30 min
+--- Filling
+- 2 tbsp butter
+- 1 medium onion, chopped
+- 1/2 lb mushrooms, chopped
+- 3 oz sour cream
+- 1/2 tsp salt
+- 1/4 tsp thyme
+- 1/8 tsp fresh ground pepper
+* melt in a skillet | 1
+> sauté until lightly browned | 2
+> add; cook over medium-high ~3 min | 3
+> lower heat; add a bit at a time, stirring until melted | 4
+> stir in; cool | 5-7
+--- Shape & bake
+- 1 egg beaten with 1 tsp water, for glaze
+* preheat oven to 450°F; roll half the dough ⅛ inch thick on a lightly floured board | p1
+> cut 2½-inch rounds
+> put ½ tsp filling on each; fold in half; press edges with a fork; slit the tops | p2
+> repeat with the remaining dough and scraps
+> brush with | 1
+> bake on an ungreased sheet 15 min
+note: Can be made ahead: cool and freeze up to 1 month; warm at 300°F for 20 min.
+
+=== Ale-Steamed Mussels with French Bread
+cat: Fish & Seafood
+serves: 2
+scan: Mussels-Ale Streamed.jpg
+- 1 cup chopped tomato
+- 1 cup ale or beer
+- 1/2 cup bottled clam juice
+- 1/3 cup chopped fresh parsley
+- 2 tbsp fresh lemon juice
+- 1 tbsp minced garlic
+- 2 lb mussels, scrubbed and debearded (about 40)
+- 4 slices French baguette (½ inch thick, cut diagonally)
+* combine in a large stockpot; cover and bring to a boil | 1-6
+> add; cover and cook 4 min until shells open | 7
+> discard any unopened shells
+> divide mussels and broth between 2 shallow bowls; serve with | 8
+note: A pale ale such as Sierra Nevada is ideal — fruity and just a little bitter.
+
+=== Mustard Baked Chicken
+cat: Chicken & Poultry
+serves: 4-5
+scan: Mustard Baked Chicken.jpg
+pre: Preheat oven to 375°F
+pre: Lightly oil a flameproof 13 × 9-inch baking dish
+- 2 1/2 lb chicken pieces
+- 1/3 cup Dijon mustard
+- 1 tbsp apricot jam
+- 1/2 cup white wine or chicken stock
+- 3/4 cup whipping cream
+- salt and freshly ground pepper
+- 2 tbsp chopped fresh parsley
+- lemon slices
+* arrange skin side down in one layer in the dish | 1
+* combine | 2 3
+* brush chicken tops with half | s1 s2
+> bake at 375°F 20 min
+> turn; brush with the rest; bake 20 min more until tender and golden
+> move chicken to a platter; keep warm
+> pour off the fat; add wine and boil, scraping up the bits | 4
+> pour into a small saucepan; reduce by half, ~5 min
+> add; cook, stirring, 4–5 min until it coats a spoon | 5
+> season; pour over chicken | 6
+> sprinkle with parsley; garnish with lemon | 7 8
+note: Nice with buttered asparagus and baby carrots with dill.

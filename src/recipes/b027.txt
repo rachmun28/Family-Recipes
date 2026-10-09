@@ -1,0 +1,187 @@
+=== Oatmeal Pancakes
+cat: Breakfast
+serves: 4
+from: Beale
+scan: Oatmeal Pancakes (Beale).jpg
+- 1 1/2 cups oatmeal
+- 2 cups milk
+- 1/2 cup white flour
+- 1/2 cup whole wheat flour
+- 1/2 tsp cinnamon
+- 1 tsp baking soda
+- 1 tsp brown sugar
+- 2 eggs, beaten
+- 1/4 cup margarine, melted
+* combine; let stand 5 min | 1 2
+* mix in a separate bowl | 3-7
+* mix in | s1 8 9
+> throw it all together | s2
+> cook on a hot greased griddle until golden on both sides
+note: “They are yummy!”
+
+=== Old-Fashioned Lemon Sugar Cookies
+cat: Cookies
+serves: about 4 dozen
+from: Minute Maid
+scan: Old Fashioned Lemon Sugar Cokies.jpg
+bake: 375F 10-12 sheet
+pre: Preheat oven to 375°F
+pre: Grease cookie sheets
+- 1 cup butter or margarine, softened
+- 1 1/2 cups sugar
+- 1 egg
+- 1/3 cup frozen lemonade concentrate, thawed
+- 4 cups flour
+- 1 tsp baking powder
+- 1 tsp baking soda
+- 1/4 tsp salt
+- 1/2 cup buttermilk
+- 2 tbsp sugar
+- 1/2 tsp nutmeg
+* beat until creamy | 1 2
+> add; beat on medium until fluffy | 3 4
+* combine | 5-8
+* add alternately with buttermilk; blend on low until moistened | s2 s3 9
+> drop by teaspoons onto sheets
+* combine | 10 11
+* flatten cookies with a wet glass dipped in sugar-nutmeg | s5 s6
+> {bake}, until light golden brown
+
+=== Old-Fashioned Oatmeal Cookies
+cat: Cookies
+serves: about 3 dozen
+from: Crisco
+scan: Old fashioned Oatmeal Cookies (Crisco).jpg
+bake: 375F 10-14 sheet
+pre: Preheat oven to 375°F
+- 3/4 cup golden Crisco shortening
+- 1 1/4 cups firmly packed brown sugar
+- 1 egg
+- 1/3 cup milk
+- 1 1/2 tsp vanilla
+- 1 cup all-purpose flour
+- 1 cup quick-cooking oats
+- 1/2 tsp baking soda
+- 1/2 tsp cinnamon
+- 1/4 tsp salt
+- 1 cup raisins
+- 1 cup chopped walnuts or pecans
+* cream on medium 2 min until smooth | 1-5
+* combine | 6-10
+* add gradually, beating at low until blended | s1 s2
+> stir in | 11 12
+> drop by spoonfuls onto ungreased sheets, leaving room to spread
+> {bake}, until light golden
+> cool slightly; move to racks
+
+=== Oliver & Bonacini Biscotti
+cat: Cookies
+serves: 3 dozen
+from: Oliver & Bonacini Café Grill
+scan: Oliver & Bonacini Biscotti.jpg
+pre: Preheat oven to 325°F
+- 1/2 cup almonds
+- 1/3 cup butter
+- 3/4 cup sugar
+- 2 eggs
+- 1 tsp vanilla extract
+- 1/4 tsp salt
+- zest of 2 oranges
+- 2 1/4 cups all-purpose flour
+- pinch nutmeg
+- 1/3 cup good-quality chocolate, chopped
+* roast at 325°F until golden; cool; chop slightly | 1
+* cream until pale and fluffy | 2 3
+> beat in gradually | 4-7
+* sift together | 8 9
+* add with the almonds; mix to a soft dough | s3 s4 s1 10
+> divide in half; roll into logs
+> bake at 325°F 25 min until golden
+> cool 10 min; cut into 1-cm slices with a serrated knife
+> bake again 10 min at 325°F; cool
+note: The clipping mentions baking powder in the method but doesn't list an amount, and is “continued on pg. 18”. The chocolate isn't mentioned in the visible method — it's mixed into the dough here.
+
+=== Baker's Best One-Bowl Brownies
+cat: Bars & Squares
+serves: 20
+from: Baker's
+scan: One Bowl Brownies.jpg
+bake: 350F 35-40 rect-13x9
+pre: Preheat oven to 350°F
+pre: Grease a 13 × 9-inch pan
+- 4 squares unsweetened chocolate
+- 3/4 cup butter
+- 3 eggs
+- 2 cups granulated sugar
+- 1 cup all-purpose flour
+- 1 pkg (300 g) semi-sweet chocolate chips
+* heat in a saucepan over low (or microwave on medium 2 min); stir until melted | 1 2
+> add; beat until well blended | 3
+> stir in until blended | 4 5
+> spread in pan; sprinkle with | 6
+> {bake}, until a toothpick comes out almost clean
+> cool
+note: Glaze instead of chips: melt 4 squares semi-sweet chocolate with 2 tbsp each butter and water; spread over the cooled brownies.
+
+=== Baker's One-Bowl Double Chocolate Cookies
+cat: Cookies
+serves: 2 dozen
+from: Baker's
+scan: One Bowl Chocolate Cookies.jpg
+bake: 325F 12 sheet
+pre: Preheat oven to 325°F
+- 6 squares semi-sweet chocolate
+- 4 squares unsweetened chocolate
+- 1/3 cup butter
+- 1 1/4 cups granulated sugar
+- 3 eggs
+- 1 cup all-purpose flour
+- 1 tsp baking powder
+- 1 cup chopped pecans (optional)
+* melt over hot water (or microwave on medium 2 min); stir until melted | 1-3
+> stir in until blended | 4
+> mix in | 5
+> stir in | 6 7
+> stir in (mixture will be thin) | 8
+> drop by rounded tablespoons onto ungreased sheets
+> {bake}, until set — don't overbake
+> cool 5 min; remove from sheet
+note: Dip cooled cookies in melted semi-sweet chocolate if you like and chill to set. They have a brownie-like texture.
+
+=== Orange-Almond Salad
+cat: Salads & Dressings
+serves: 6-8
+scan: Orange Almond Salad.jpg
+- romaine lettuce
+- mandarin oranges
+- toasted slivered almonds
+- 1/4 cup cider vinegar
+- 1/2 tsp dry mustard
+- 2 tsp honey
+- 1/2 tsp salt
+- 3 tsp lemon juice
+- 1 cup salad oil
+* combine | 1-3
+* mix | 4-8
+> add slowly | 9
+> cover and chill
+* toss together | s1 s4
+
+=== Orange-Cranberry Sauce for Chicken
+cat: Sauces & Marinades
+serves: 4-6
+scan: Orange Cranberry Sauce for Chicken.jpg
+- 1/4 cup white sugar
+- 2 oz red wine vinegar
+- 3/4 cup orange juice
+- 1/4 cup cranberry juice
+- 1/4 cup orange juice
+- 4 tbsp cornstarch
+- 2 oz dried cranberries
+- 1/4 cup canned mandarin orange segments
+* simmer in a saucepan until golden brown (caramelized) | 1 2
+> add; bring to a simmer | 3 4
+* blend in a small bowl | 5 6
+* stir into the simmering mixture until thickened | s2 s3
+> return to a simmer; add | 7 8
+> serve hot over grilled or baked chicken

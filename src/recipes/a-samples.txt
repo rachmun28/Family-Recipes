@@ -1,0 +1,126 @@
+=== Angel Pie
+cat: Pies & Tarts
+serves: 8
+scan: Angel Pie.jpg
+pre: Preheat oven to 275°F
+--- Meringue shell
+- 4 egg whites
+- 1/2 tsp cream of tartar
+- 1 cup sugar
+* beat until frothy | 1
+> beat to points | 2
+> add gradually; beat until stiff & glossy | 3
+> spread in 9" pie plate
+> bake 20 min at 275°F, then 40 min at 300°F
+> let cool
+--- Lemon filling
+- 4 egg yolks
+- 1/2 cup sugar
+- 3 tbsp lemon juice
+- 2 tsp grated lemon rind
+- 2 tbsp water (only if too thick)
+* beat | 1 2
+> add | 3-5
+> cook in double boiler, stirring, until thick
+> let cool
+--- Assemble
+- 1 cup whipping cream
+- toasted coconut, to garnish (optional)
+* whip | 1
+* spread half the cream over shell, then the custard, then the rest of the cream | p1 p2 s1
+> garnish | 2
+> let stand 2 hrs before cutting
+
+=== Crunchy Apple Chicken Salad
+cat: Salads & Dressings
+serves: 6
+from: Foodland Ontario
+scan: Apple Chicken Salad.jpg
+- 3 cups diced cooked chicken or turkey
+- 1 cup sliced celery
+- 2 cups cored, unpeeled, chopped red-skinned apples (3 to 4 apples)
+- 1/4 cup chopped hazelnuts
+- 1/4 cup shredded carrot
+- 2 tbsp finely chopped green onion
+- 1/4 cup light mayonnaise
+- 1/4 cup plain yogurt
+- 1/4 tsp salt
+- 1/4 tsp black pepper
+- pinch of cinnamon
+* mix in a large bowl until combined | 1-6
+* stir together in a small bowl | 7-11
+* mix together; add more salt & pepper to taste | s1 s2
+> refrigerate, covered, until serving
+note: Best apples for salads: Cortland. Empire, Golden Delicious, McIntosh, Mutsu (Crispin) and Spartan are good all-rounders.
+
+=== Great Granny's Magnificent Strawberry Shortcake
+cat: Desserts
+serves: 8
+from: Great Granny
+bake: 450F 15-18 round-8
+pre: Preheat oven to 450°F
+pre: Grease an 8 × 1½-inch round pan
+- 2 cups all-purpose flour
+- 2 tbsp sugar
+- 1 tbsp baking powder
+- 1/2 tsp salt
+- 1/2 cup butter
+- 1 egg, beaten
+- 2/3 cup milk
+- 3-4 cups strawberries, sliced
+- 1 cup whipping cream
+* sift together | 1-4
+> cut in until like coarse crumbs | 5
+> stir in by hand just to moisten | 6 7
+> spread in pan, building up the edges slightly
+> {bake}
+> remove from pan; cool on rack 5 min
+> split into two layers
+* whip | 9
+* layer cake, cream and berries, ending with strawberries on top | s7 s8 8
+
+=== Banana Loaf
+cat: Breads & Muffins
+serves: 1 loaf
+scan: Banana Loaf pg1.jpg
+- 2 ripe bananas (about 1 cup mashed)
+- 1/4 cup shortening
+- 1/2 cup sugar
+- 2 eggs
+- 1/2 cup sour milk or buttermilk
+- 1 tsp almond flavouring
+- 2 cups sifted flour
+- 2 tsp baking powder
+- 1/2 tsp baking soda
+- 1 tsp salt
+* sift together | 7-10
+* cream | 2 3
+> add; mix well | 4
+* mash | 1
+> add to milk with flavouring | 5 6
+* add alternately to creamed mixture | s3 s1 s5
+> pour into a greased loaf pan
+note: The second page of this card is missing, so the baking time isn't known. Loaves like this usually bake in a greased 9 × 5-inch pan at 350°F for about 1 hour.
+
+=== Bran Muffins (Mom)
+cat: Breads & Muffins
+serves: 12 muffins
+from: Mom
+scan: Bran Muffins (Mom).jpg
+bake: 400F 15-20 muffin*12
+pre: Preheat oven to 400°F
+pre: Grease muffin pans
+- 3/4 cup brown sugar
+- 1 egg
+- 2/3 cup Crisco oil
+- pinch salt
+- 1/2 tsp vanilla
+- 1 cup milk
+- 1 cup flour
+- 1 cup bran
+- 2 tsp baking powder
+- 1/2 tsp baking soda
+* mix well | 1-5
+> add; mix well | 6-10
+> spoon into pans
+> {bake}

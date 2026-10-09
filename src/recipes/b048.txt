@@ -1,0 +1,287 @@
+=== Veggie Squares
+cat: Appetizers
+serves: about 48 squares
+scan: Veggie Squares.jpg
+- 2 cans crescent rolls
+- 2 pkg (8 oz each) cream cheese
+- 1 cup real mayonnaise
+- 3/4 cup small broccoli florets
+- 3/4 cup shredded carrots
+- 1/2 cup chopped green pepper
+- 3/4 cup chopped tomatoes
+- 3/4 cup grated cheese
+* spread out in a single layer in a pan; bake as the package directs; cool | 1
+* mix with a spoon till smooth | 2 3
+* spread over the cooled rolls | s1 s2
+> sprinkle over the top | 4-8
+> cut into squares
+
+=== Basic Waffles
+cat: Breakfast
+serves: 8 waffles
+scan: Waffles Basic.jpg
+- 1 3/4 cups sifted all-purpose flour
+- 3 tsp baking powder
+- 1/2 tsp salt
+- 1 1/4 cups milk
+- 2 egg yolks, beaten
+- 1/2 cup salad oil or melted shortening
+- 2 egg whites, stiffly beaten
+* sift together | 1-3
+* combine | 4 5
+* stir in dry ingredients | s2 s1
+> add; stir | 6
+> fold in, leaving a few little fluffs — don't overmix | 7
+> bake in a preheated waffle iron
+
+=== Favourite Waffles
+cat: Breakfast
+serves: 6-8 waffles
+scan: Waffles.jpg
+pre: Lightly brush the waffle grids with oil; preheat at medium
+- 2 egg whites
+- 2 egg yolks
+- 1 1/2 cups milk
+- 1/2 cup vegetable oil
+- 1 3/4 cups flour
+- 1 tbsp sugar
+- 1 tbsp baking powder
+- 2 tsp salt
+* beat until stiff but not dry; set aside | 1
+* beat until thick and lemon coloured | 2
+> keep beating, adding | 3 4
+> add; beat until smooth | 5-8
+* fold in the beaten whites | s4 s1
+> bake in the waffle iron
+note: The card says 2 tsp salt — many waffle recipes use ½ tsp, so adjust to taste.
+
+=== Walnut Pie
+cat: Pies & Tarts
+serves: 8
+scan: Walnut Pie Filling.jpg
+bake: 350F 40-45 pie-9
+pre: Preheat oven to 350°F
+- 1/2 cup brown sugar
+- 2 tbsp all-purpose flour
+- 1 1/4 cups corn syrup
+- 3 tbsp butter
+- 1/4 tsp salt
+- 3 eggs
+- 1 1/2 tsp vanilla
+- 1 unbaked pie shell
+- 1 cup walnuts (halves and pieces)
+* mix in a saucepan | 1 2
+> add; warm till the butter is melted | 3-5
+* beat | 6 7
+* stir in the sugar mixture | s3 s2
+> turn into the pie shell | 8
+> sprinkle with | 9
+> {bake}
+> cool
+
+=== Breaded Veal Chops with Wild Mushroom Sauce
+cat: Veal
+serves: 6
+scan: White Chocolate Roulade with Dark Choclate Sauce.jpg
+--- Chops
+- 6 veal chops (about 8 oz each)
+- salt and freshly ground pepper
+- 1 cup all-purpose flour
+- 2 eggs, lightly beaten
+- 4 cups fresh bread crumbs
+- 1/4 cup unsalted butter
+- 2 tbsp olive oil
+* pat dry; season lightly | 1 2
+> dredge; shake off excess | 3
+> dip in egg; let excess drip off | 4
+> coat with crumbs, patting firmly; refrigerate 1 hr or until ready | 5
+* heat in a large skillet | 6 7
+* cook 5 min per side, in batches if needed, until browned and cooked through | s4 s5
+--- Wild mushroom sauce
+- 2 pkg (½ oz each) dried wild mushrooms
+- 1 cup warm water
+- 2 tbsp butter
+- 1 shallot, finely chopped
+- 1 lb fresh mushrooms, sliced
+- 1 cup whipping cream
+- 1/2 tsp salt
+- 1/4 tsp freshly ground pepper
+* soak 30 min until soft; drain, keeping the liquid; rinse and chop; strain the liquid through paper towels | 1 2
+* melt in a deep skillet | 3
+> cook until tender | 4
+> add; cook until any liquid has evaporated | 5
+> add wild mushrooms and their liquid; cook over high heat until almost evaporated | s1
+> pour in cream; cook until slightly thickened; season | 6-8
+--- Serve
+* serve chops with the sauce | p1 p2
+note: Make ahead and reheat the chops on a jelly roll pan at 450°F until hot. The sauce can also be made ahead and reheated.
+
+=== Curried Carrots and Dates
+cat: Sides & Vegetables
+serves: 6
+scan: White Chocolate Roulade with Dark Choclate Sauce.jpg
+- 2 tbsp unsalted butter
+- 1 small onion, chopped
+- 1 tsp curry powder
+- 2 lb carrots, sliced diagonally
+- 2 cups chicken stock
+- 2 tbsp peach or apricot chutney
+- 1/2 cup dates, halved
+- salt and freshly ground pepper
+* melt in a large deep skillet | 1
+> cook until tender and fragrant but not browned | 2
+> stir in; cook gently 1 min | 3
+> add; toss well | 4
+> add; bring to a boil | 5 6
+> cook over medium-high ~20 min until tender, adding the dates for the last 5 min | 7
+> drain if needed; season | 8
+
+=== Zucchini with Onions
+cat: Sides & Vegetables
+serves: 6
+scan: White Chocolate Roulade with Dark Choclate Sauce.jpg
+- 3 tbsp olive oil
+- 3 onions, sliced
+- 2 lb zucchini, thinly sliced
+- salt and freshly ground pepper
+- 3 tbsp chopped fresh parsley
+* heat in a large skillet | 1
+> cook until tender and slightly browned | 2
+> add; cook just until tender | 3
+> season; sprinkle with | 4 5
+note: Don't peel the zucchini unless the skin is bitter.
+
+=== White Chocolate Roulade with Dark Chocolate Sauce
+cat: Desserts
+serves: 6-8
+scan: White Chocolate Roulade with Dark Choclate Sauce.jpg
+bake: 350F 15-20 sheet
+pre: Butter a 15 × 11-inch jelly roll pan, line with parchment, butter again and dust with flour
+pre: Preheat oven to 350°F
+--- Cake
+- 6 oz white chocolate, preferably Swiss or Belgian
+- 3 tbsp orange juice
+- 5 egg yolks
+- 3/4 cup granulated sugar
+- 1 tbsp orange liqueur
+- 5 egg whites
+- 2 tbsp icing sugar, sifted
+* melt over simmering water; stir smooth | 1 2
+* beat until light in colour | 3 4
+> beat in | s1 5
+* beat until stiff | 6
+* fold gently into the yolk base | s3 s4
+> spread evenly in the pan
+> {bake}, until puffed and lightly browned; cool 10 min
+> sprinkle with; loosen and invert onto a tea towel; remove pan and paper; trim edges | 7
+--- Filling
+- 1 1/2 cups whipping cream
+- 2 tbsp instant-dissolving (fruit/berry) sugar
+- 2 tbsp orange liqueur
+- 1/2 cup chopped chocolate-coated candied orange peel
+* whip until slightly thickened | 1
+> gradually add, beating until stiff | 2 3
+> fold in | 4
+--- Dark chocolate sauce
+- 3 oz bittersweet or semisweet chocolate, chopped
+- 1/3 cup whipping cream
+- 2 tbsp orange liqueur
+- 1 tbsp unsalted butter
+- 1 tsp pure vanilla extract
+* heat gently over simmering water until melted | 1 2
+> remove from heat; stir until smooth
+> stir in | 3-5
+--- Assemble
+* spread two-thirds of the filling over the cake; roll up lengthwise | p1 p2
+> pipe the remaining filling over the roll; refrigerate until serving
+> spoon sauce onto plates; set a slice in the centre | p3
+note: It's normal for this delicate cake to crack a little when rolled. Refrigerate the sauce if not serving right away, but bring to room temperature first.
+
+=== White Sauce
+cat: Icings & Sauces
+serves: 1 cup
+scan: White Sauce.jpg
+- 2 tbsp butter (1 for thin, 4 for thick)
+- 2 tbsp flour (1 for thin, 4 for thick)
+- 1/2 tsp salt
+- 1 cup milk
+* blend over low heat | 1-3
+> raise heat; stir in until thick | 4
+note: Thin (for soups): 1 tbsp each butter and flour. Medium (served on vegetables): 2 tbsp each. Thick (for croquettes): 4 tbsp each.
+
+=== Wholegrain Wholewheat Bread
+cat: Breads & Muffins
+serves: 1 loaf (8½ × 4½-inch)
+scan: Wholegrain Wholewheat Bread.jpg
+bake: 375F 45 loaf-8
+- 1 pkg (2½ tsp) dry yeast
+- pinch sugar
+- 1/4 cup warm water
+- 1/2 cup wholegrain cereal
+- 1 1/4 cups hot water
+- 1 tbsp honey, molasses or brown sugar
+- 2 tbsp soft butter or vegetable oil
+- 1 tsp salt
+- 1/4 cup powdered milk
+- 3 1/2 cups wholewheat flour
+- milk, for brushing
+- 1 tsp wholegrain cereal, for the top
+* dissolve; let foam ~5 min | 1-3
+* soak in a large bowl | 4 5
+> when lukewarm, mix in with half the flour | 6-10
+> mix in the yeast and half the remaining flour | s1
+> knead in the rest of the flour until smooth and elastic, ~8 min (or process 30–40 s after the dough cleans the bowl)
+> turn in a buttered bowl; enclose loosely in a plastic bag; let double at room temperature, at least 2 hrs
+> punch down (rise again if you like); knead briefly; shape a loaf in a buttered pan
+> brush with milk; sprinkle with cereal | 11 12
+> cover loosely; let rise 1½ inches above the rim
+> {bake}, until it sounds hollow when tapped
+> remove from pan; cool on a rack
+
+=== Witch's Cauldron Cake
+cat: Cakes
+serves: 10-12
+from: Betty Crocker
+scan: Witches Cauldron Cake.jpg
+bake: 350F 34-39 round-8*2
+pre: Preheat oven to 350°F
+pre: Generously grease and flour two 8-inch round pans
+- 1 pkg (510 g) chocolate fudge cake mix
+- 1 1/3 cups water
+- 1/3 cup vegetable oil
+- 3 eggs
+- 1/2 tsp peppermint extract
+- 1 tub (340 g) white whipped frosting
+- green food colouring
+- 1/2 tub (450 g) chocolate frosting
+- 9-inch wooden spoon or dowel
+- gummy worms, thumbs, feet, etc.
+- 1 roll Fruit by the Foot (any flavour)
+* prepare as the package directs; bake and cool | 1-4
+* stir in, adding enough colouring to tint it green | 6 5 7
+* split cakes horizontally; layer with three-quarters of the green frosting (don't frost the top layer) to make 4 layers | s1 s2
+> stick the spoon down through the cake for a stirrer | 9
+> frost the top with the rest of the green; frost the sides with | 8
+> decorate the top with candies and Fruit by the Foot | 10 11
+note: Look for the creepiest candies you can find — then let the kids "fill" the cauldron.
+
+=== Cathy's Zucchini Soup
+cat: Soups & Stews
+serves: 4-6
+from: Cathy Carney
+scan: Zucchini Soup (Cathy Carney) pg1.jpg
+scan: Zucchini Soup (Cathy Carney) pg 2.jpg
+- onion, chopped
+- oil or cooking spray
+- zucchini and potato, chopped
+- water
+- chicken bouillon
+- 1 tbsp cider vinegar
+- sour cream, to thicken
+- pepper and garlic, to taste
+* brown in a pot | 1 2
+> add, with water to cover (plus a little) | 3 4
+> add | 5
+> cook till tender
+> purée
+> add; season to taste | 6-8

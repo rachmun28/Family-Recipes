@@ -1,0 +1,116 @@
+=== S'mores Cheesecake
+cat: Desserts
+serves: 12
+scan: S'mores Cheesecake.jpg
+bake: 325F 40-45 springform-10
+pre: Preheat oven to 325°F
+--- Crust
+- 1/2 cup butter, melted
+- 2 1/4 cups graham wafer crumbs
+- 1/3 cup sugar
+* combine | 1-3
+> press into the bottom of a 10-inch springform
+--- Filling
+- 2 pkg (8 oz each) cream cheese, softened
+- 1 can sweetened condensed milk
+- 2 tsp vanilla
+- 3 eggs
+- 1 cup miniature chocolate chips
+- 1 cup miniature marshmallows
+* beat until smooth | 1-3
+> add; beat until combined | 4
+> stir in | 5 6
+> pour over crust | p1
+> {bake}, until the centre is almost set
+--- Topping
+- 1 cup miniature marshmallows
+- 1/2 cup chocolate chips
+- 1 tbsp butter
+* sprinkle over the top; bake 4–6 min more until puffed | p2 1
+* melt together | 2 3
+* drizzle over the marshmallows | s1 s2
+> cool to room temperature; refrigerate overnight
+
+=== Corn Pineapple Salad
+cat: Salads & Dressings
+serves: 6
+scan: Salad Corn Pineapple.jpg
+- 3/4 can (19 oz) crushed pineapple
+- 1 jar corn relish
+- 2 tbsp cole slaw dressing
+* mix together; chill | 1-3
+
+=== Low-Cal Salad Dressing (Dad's)
+cat: Salads & Dressings
+serves: 1 1/2 cups
+from: Dad
+scan: Salad Dressing  (Dad's).jpg
+- 1/2 cup oil
+- 1/2 cup vinegar
+- 1/2 cup sugar
+- 1 tsp pepper
+- 1 tsp salt
+* shake or whisk together until the sugar dissolves | 1-5
+
+=== Curried Salad Dressing
+cat: Salads & Dressings
+serves: about 1/3 cup
+scan: Salad Dressing Curried.jpg
+- 2 tbsp olive oil
+- 1 tbsp lemon juice
+- 2 tbsp mayonnaise
+- 1 tsp honey
+- 1/2 tsp curry
+- 1/2 tsp basil
+- 1/2 tsp salt
+* mix all together | 1-7
+
+=== Tangy Cole Slaw Dressing
+cat: Salads & Dressings
+serves: about 1/2 cup
+scan: Salad Dressing Tangy Cole Slaw.jpg
+- 2 tbsp sugar
+- 1 tsp salt
+- 1 tsp dry mustard
+- 1/4 cup mayonnaise
+- 2 tbsp vinegar
+- 1 tbsp water
+* mix or shake together | 1-6
+
+=== Salmon with Chinese Marinade
+cat: Fish & Seafood
+serves: 4
+scan: Salmon (Chinese marinade).jpg
+bake: 375F 8-10 sheet
+pre: Preheat oven to 375°F
+- 1 tbsp soy sauce
+- 2 tbsp hoisin sauce
+- 1 tsp sesame oil
+- 1 tbsp garlic
+- 1 tbsp ginger
+- 1 tbsp honey
+- salmon fillets
+* mix | 1-6
+> brush over | 7
+> {bake}
+
+=== Salmon Ball Casserole
+cat: Fish & Seafood
+serves: 4
+scan: Salmon Ball Casserole.jpg
+bake: 350F 60 square-9
+pre: Preheat oven to 350°F
+- 1 small tin salmon
+- long grain rice, raw
+- grated carrot
+- chopped onion
+- 1 egg
+- salt and pepper
+- 1 can cream of mushroom soup
+- 1 can water
+* remove skin and bones | 1
+> add; mix together well | 2-6
+> shape into balls; put in a casserole, leaving room to expand (16 balls fit a 9 × 9 dish)
+* mix together | 7 8
+* pour over | s3 s4
+> bake covered at 350°F 1 hr

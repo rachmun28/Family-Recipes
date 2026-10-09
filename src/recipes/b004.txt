@@ -1,0 +1,246 @@
+=== Blueberry Oat Muffins
+cat: Breads & Muffins
+serves: 12 muffins
+from: Robin Hood
+scan: Blueberry Oat Muffins.jpg
+bake: 400F 15-20 muffin*12
+pre: Preheat oven to 400°F
+pre: Grease muffin cups well
+- 1 cup oats
+- 1 cup sour cream
+- 1/3 cup milk
+- 1 cup all-purpose flour
+- 1 tsp baking powder
+- 1/2 tsp baking soda
+- 1/2 tsp salt
+- 1/2 tsp cinnamon
+- 3/4 cup lightly packed brown sugar
+- 1 egg, beaten
+- 3 tbsp melted butter
+- 1 cup blueberries, fresh or frozen (thawed and well drained)
+* combine in a small bowl; let stand | 1-3
+> add; mix well | 10 11
+* combine | 4-9
+* add oat mixture all at once; stir just until moistened | s3 s2
+> gently fold in | 12
+> fill muffin cups ¾ full
+> {bake}
+
+=== Blueberry Snack Cake
+cat: Cakes
+serves: 12-15
+scan: Blueberry Snack Cake.jpg
+bake: 350F 30-35 rect-13x9
+pre: Preheat oven to 350°F
+pre: Grease a 13 × 9-inch dish
+- 2 cups flour
+- 1 1/2 cups sugar
+- 1/2 cup cold butter
+- 1 tsp baking powder
+- 1 cup milk
+- 2 egg yolks
+- 2 egg whites
+- 2 cups blueberries (fresh or frozen)
+* combine | 1 2
+> cut in; set aside ¾ cup for the topping | 3
+> add; mix well | 4-6
+* beat till soft peaks | 7
+* fold in | s3 s4
+> spread in dish; sprinkle with blueberries and the reserved crumb mix | 8
+> {bake}
+note: Don't thaw frozen berries before using.
+
+=== Bourbon Squash Rings
+cat: Sides & Vegetables
+serves: 6
+from: Vancouver Entertains (Toronto Star)
+scan: Bourbon Squash Rings.jpg
+pre: Preheat oven to 375°F
+- 3 small acorn squash
+- 1/4 cup bourbon
+- 1/4 cup melted butter
+- 2 tbsp brown sugar
+- freshly grated nutmeg
+* wash and dry; bake whole in a baking pan 25 min, until barely tender | 1
+> cool slightly; cut into 1-inch rings; remove seeds
+> arrange in one layer in a large foil-lined pan; prick with a fork
+> sprinkle with; let stand 5 min | 2
+> brush with | 3
+> sprinkle with | 4 5
+> bake 10–15 min more, until tender and lightly browned
+
+=== Canoe's Braised Pork with Steam Whistle Pilsner
+cat: Pork
+serves: 6
+from: Chef Anthony Walsh, Canoe (Toronto Star)
+scan: Braised Pork with Pilsner.jpg
+--- Marinade
+- 1/4 cup kosher salt
+- 4 cups fresh apple cider
+- 2 tbsp olive oil
+- 1/2 cup diced onion
+- 1/2 cup diced carrot
+- 1/2 cup diced celery
+- 4 cloves garlic, crushed
+- 1 tbsp crushed juniper berries
+- 1 sprig each thyme and rosemary
+- 1 bottle Steam Whistle Pilsner (or other pilsner)
+- 1/2 cup grade A maple syrup
+- 3-5 lb bone-in piglet shoulder or bone-in picnic shoulder, skin removed
+* dissolve salt in 1 cup of the cider over medium heat; set aside | 1 2
+* heat in a large deep skillet over medium | 3
+> cook 5 min until soft but not brown | 4-7
+> add; cook, stirring, 1 min | 8 9
+> add dissolved salt, remaining cider, beer and syrup | s1 10 11
+> boil 1 min; strain through a fine sieve; cool completely
+* tie with butcher twine if using a picnic shoulder | 12
+* put pork in a large non-metallic bowl with marinade; cover & refrigerate 24 hrs, turning | s6 s7
+--- Braise
+- salt and black pepper to taste
+- 3 tbsp olive oil
+- 1 sweet onion, thinly sliced
+- 3 bay leaves
+- 2 sprigs each thyme and rosemary
+- 4 cloves garlic, minced
+- 1 bottle Steam Whistle Pilsner
+- 4 cups chicken stock
+- yellow split peas, cooked, to serve
+* remove pork, discard marinade; pat dry; season | p1 1
+* heat 2 tbsp in a large ovenproof pot over medium | 2
+> brown pork on all sides; remove to a plate | s1
+> add remaining oil; cook 5 min until soft, not brown | 3-5
+> add; cook, stirring, 1 min | 6
+> add beer; boil over high heat, scraping up brown bits, 3–5 min until reduced by half | 7
+> add stock and pork; bring to a boil | 8
+> cover tightly; cook in a 350°F oven 3–4 hrs until falling off the bone, turning after 1½ hrs
+> remove pork; strain and reserve juices; pull meat into chunks, discarding bones and fat
+> drizzle with juices; serve with | 9
+
+=== Bran Muffins (6 Dozen)
+cat: Breads & Muffins
+serves: 72 muffins
+scan: Bran Muffins  6 doz.jpg
+bake: 375F 20 muffin*72
+pre: Preheat oven to 375°F
+pre: Grease muffin cups
+- 5 1/2 cups graham flour
+- 2 1/2 cups white sugar
+- 3 cups natural bran
+- 2 cups All-Bran
+- 2 cups raisins
+- 1 quart buttermilk
+- 3 tbsp baking soda
+- 1 1/2 cups oil
+- 1/2 cup molasses
+- 4 eggs
+* mix together | 1-5
+> add | 6 7
+> then add; mix | 8-10
+> fill muffin cups
+> {bake}
+note: The card doesn't give the method; this is the method from the matching Scoop-and-Bake Bran Muffins card. The batter keeps 6 weeks in the fridge.
+
+=== Bran Muffins (Scoop and Bake)
+cat: Breads & Muffins
+serves: about 6 dozen
+from: Stuart Hill
+scan: Bran Muffins Scoop and Bake (Stuart Hill).jpg
+bake: 375F 20 muffin*72
+pre: Preheat oven to 375°F
+pre: Grease muffin cups
+- 5 1/2 cups flour (white or whole wheat)
+- 2 1/2 cups sugar
+- 3 cups natural bran
+- 2 cups All-Bran
+- 2 cups raisins
+- 1 pkg dates, cooked
+- 1 quart buttermilk
+- 3 tsp baking soda
+- 1 1/2 cups oil
+- 1/2 cup molasses
+- 4 eggs
+* mix together | 1-6
+> add | 7 8
+> then add; mix | 9-11
+> scoop into muffin cups as needed
+> {bake}
+note: The batter will keep in the refrigerator for 6 weeks — bake a few at a time.
+
+=== Basic White Bread (Breadmaker)
+cat: Breads & Muffins
+serves: 1 loaf
+scan: Bread for breadmaker.jpg
+- 1 cup water
+- 1 tbsp skim milk powder
+- 2 tbsp shortening
+- 2 tbsp sugar
+- 1 tsp salt
+- 2 2/3 cups white flour
+- 1 tsp yeast
+* measure into the baking pan in this order | 1-7
+> insert pan in the machine; close lid
+> select setting 3; press start
+> when it beeps 3 times (display shows 0:00), remove the pan with oven mitts
+> remove bread (and kneading blade); cool before slicing
+note: Large loaf: 1¼ cups water, 1 tbsp milk powder, 2 tbsp shortening, 2 tbsp sugar, 1½ tsp salt, 3¼ cups flour, 1½ tsp yeast; setting 1. Extra large: 1⅔ cups water, 2 tbsp milk powder, 2 tbsp shortening, 2 tbsp sugar, 2 tsp salt, 4⅓ cups flour, 1½ tsp yeast; setting 1.
+
+=== 100% Whole Wheat Bread (Breadmaker)
+cat: Breads & Muffins
+serves: 1 loaf
+scan: Bread for breadmaker.jpg
+- 1 cup water
+- 1 tbsp skim milk powder
+- 1 tbsp shortening
+- 1 tbsp honey
+- 1 tbsp molasses
+- 1 tsp salt
+- 2 1/2 cups whole wheat flour
+- 1 1/4 tsp yeast
+* measure into the baking pan in this order | 1-8
+> insert pan in the machine; close lid
+> select setting 5; press start
+> when it beeps 3 times (display shows 0:00), remove the pan with oven mitts
+> remove bread (and kneading blade); cool before slicing
+note: Large loaf: 1¼ cups water, 2 tbsp each milk powder, shortening and honey, 1 tbsp molasses, 1½ tsp salt, 3¼ cups flour, 1½ tsp yeast; setting 4. Extra large: 1½ cups water, 3 tbsp milk powder, 3 tbsp shortening, 2 tbsp honey, 2 tbsp molasses, 2 tsp salt, 4 cups flour, 1½ tsp yeast; setting 4.
+
+=== Pumpernickel Bread (Breadmaker)
+cat: Breads & Muffins
+serves: 1 loaf
+scan: Bread for breadmaker.jpg
+- 1 cup water
+- 1 tbsp skim milk powder
+- 1 tbsp shortening
+- 1 tbsp sugar
+- 1 tbsp molasses
+- 1 tsp salt
+- 1 1/3 cups white flour
+- 3/4 cup whole wheat flour
+- 1/4 cup rye flour
+- 1 tbsp cocoa
+- 1 tsp instant coffee
+- 1 1/2 tsp yeast
+* measure into the baking pan in this order | 1-12
+> insert pan in the machine; close lid
+> select setting 5; press start
+> when it beeps 3 times (display shows 0:00), remove the pan with oven mitts
+> remove bread (and kneading blade); cool before slicing
+note: Large loaf: 1¼ cups water, 2 tbsp milk powder, 1 tbsp shortening, 2 tbsp sugar, 2 tbsp molasses, 1½ tsp salt, 1¾ cups white flour, 1 cup whole wheat, ½ cup rye, 2 tbsp cocoa, 1½ tsp coffee, 1½ tsp yeast; setting 4. Extra large: 1⅔ cups water, 3 tbsp milk powder, 2 tbsp shortening, 2 tbsp sugar, 3 tbsp molasses, 2 tsp salt, 2⅓ cups white flour, 1 cup whole wheat, ¾ cup rye, 3 tbsp cocoa, 2 tsp coffee, 2 tsp yeast; setting 4.
+
+=== Potato Bread (Breadmaker)
+cat: Breads & Muffins
+serves: 1 loaf
+scan: Bread for breadmaker.jpg
+- 1 cup water
+- 1 tbsp skim milk powder
+- 1 tbsp shortening
+- 1 tbsp sugar
+- 1 1/2 tsp salt
+- 1/3 cup dry potato flakes
+- 2 1/2 cups white flour
+- 1 1/2 tsp yeast
+* measure into the baking pan in this order | 1-8
+> insert pan in the machine; close lid
+> select setting 3; press start
+> when it beeps 3 times (display shows 0:00), remove the pan with oven mitts
+> remove bread (and kneading blade); cool before slicing
+note: Large loaf: 1⅓ cups water, 2 tbsp each milk powder, shortening and sugar, 1½ tsp salt, ⅓ cup potato flakes, 3½ cups flour, 1½ tsp yeast; setting 1. Extra large: 1⅔ cups water, 3 tbsp each milk powder, shortening and sugar, 2 tsp salt, ½ cup potato flakes, 4¼ cups flour, 2 tsp yeast; setting 1.

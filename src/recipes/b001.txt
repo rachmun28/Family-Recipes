@@ -1,0 +1,178 @@
+=== 100 Cookies
+cat: Cookies
+serves: about 100 cookies
+from: Alice Graham
+scan: 100 Cookies-Alice Graham.jpg
+bake: 350F 10 sheet
+pre: Preheat oven to 350°F
+- 1 cup white sugar
+- 1 cup brown sugar
+- 2 eggs
+- 1 cup cooking oil
+- 1 cup margarine
+- 1 cup quick-cooking rolled oats
+- 1 cup Rice Krispies
+- 1 cup coconut
+- 1 tsp vanilla
+- 3 1/2 cups flour
+- 1 tsp salt
+- 1 tsp cream of tartar
+- 1 tsp baking soda
+* beat well until light & fluffy | 1-5
+> add | 6-9
+> add | 10-13
+> drop from spoon or roll into little balls; flatten with a fork
+> {bake}
+
+=== Almond Cookies
+cat: Cookies
+serves: about 3 dozen
+from: S. Beale (Andria Halsey)
+scan: Almond Cookies (Beale).jpg
+bake: 300F 15 sheet
+pre: Preheat oven to 300°F
+pre: Grease a cookie sheet
+- 1 cup (1/2 lb) margarine
+- 1 cup sugar
+- 1 tsp baking soda
+- 1 tsp vinegar
+- 1 1/2 cups flour
+- almonds or walnuts, to taste
+* mix well | 1-6
+> drop by teaspoonfuls onto cookie sheet
+> {bake} or until golden brown
+note: Crisp, and they freeze well.
+
+=== Amish Friendship Bread
+cat: Breads & Muffins
+serves: 2 loaves
+scan: Amish Friendship Bread.jpg
+bake: 325F 50-60 loaf-9*2
+pre: Starter rules: do not refrigerate, follow the instructions daily, and don't open the bag unless told to
+--- 10-day starter (begin with 1 cup of starter in a zip-top bag)
+- 1 cup starter (from a friend)
+- 1 cup flour
+- 1 cup sugar
+- 1 cup milk
+- 1 cup flour
+- 1 cup sugar
+- 1 cup milk
+* days 1–5: day 1 do nothing; days 2–5 mush the bag | 1
+> day 6: add, then mush the bag | 2-4
+> days 7–9: let the air out & mush the bag
+> day 10: pour into a bowl; add and stir | 5-7
+> put 1 cup into each of 4 large zip-top bags marked "Day 1" and give away with these instructions; keep the rest
+--- Bread
+- 3/4 cup oil
+- 3 eggs
+- 1 cup sugar
+- 2 tsp cinnamon
+- 1/2 tsp baking powder
+- 1/2 tsp baking soda
+- 1/2 tsp salt
+- 1 large box vanilla instant pudding
+- 2 cups flour
+- 3/4 cup milk
+- cinnamon & sugar, for the pans and tops
+* add to the remaining starter | p1 1-10
+* grease & flour 2 non-metal loaf pans (or 4 mini loaf pans); sprinkle cinnamon sugar on the bottoms | 11
+> pour in batter; sprinkle cinnamon & sugar on top | s1
+> {bake} (40 min for mini loaf pans)
+
+=== Angel Pie with Meringue Crust
+cat: Pies & Tarts
+serves: 6
+scan: Angel Pie with Meringue Crust.jpg
+pre: Preheat oven to 275°F
+pre: Grease a 9-inch pie plate
+--- Meringue crust
+- 3 egg whites
+- pinch cream of tartar
+- 1 cup granulated sugar
+* beat until stiff | 1 2
+> add gradually; beat 10–15 min until stiff and glossy | 3
+> spread over bottom and up sides of pie plate
+> bake at 275°F 1 hr, until light brown and crisp
+> turn off oven, open door; let cool 15 min
+--- Filling
+- 113 g (4 oz) package lemon pie filling
+- 1/2 cup granulated sugar
+- 1/4 cup cold water
+- 3 egg yolks
+- 2 cups hot water
+- 1 tbsp butter
+- 2 cups whipped topping
+* combine; blend well | 1-4
+> add | 5
+> cook & stir over medium heat until it boils and thickens
+> remove from heat; stir in | 6
+> chill 1 hr
+> fold in 1 cup of the topping | 7
+--- Assemble
+* spoon filling into cooled shell | p1 p2
+> chill; garnish with remaining whipped topping
+
+=== Apple Coffee Round
+cat: Cakes
+serves: about 8
+from: Robin Hood
+scan: Apple Coffee Cake Round.jpg
+bake: 350F 45-50 springform-9
+pre: Preheat oven to 350°F
+pre: Grease a 9-inch springform pan
+--- Topping (optional)
+- 3 tbsp granulated sugar
+- 2 tbsp all-purpose flour
+- 1/2 tsp cinnamon
+- 1 tbsp shortening, melted
+- 1/2 cup chopped pecans
+* combine; mix well; set aside | 1-5
+--- Batter
+- 2 cups all-purpose flour
+- 1 1/4 cups granulated sugar
+- 1 tbsp baking powder
+- 1/2 tsp baking soda
+- 1/2 tsp salt
+- 1 tsp cinnamon
+- 1/4 tsp nutmeg
+- 2 eggs
+- 1 cup sour cream
+- 1/4 cup shortening, melted
+- 1 cup peeled, grated apple, lightly packed
+* combine in a large bowl | 1-7
+* beat together | 8-10
+* stir in, mixing just until blended | s1 s2
+> stir in | 11
+> spread evenly in pan
+> sprinkle over batter | p1
+> {bake}, until a toothpick comes out clean
+> serve warm or cool
+note: Like a big spicy apple muffin cut into wedges. Mix the batter as little as possible to avoid a coarse, tough texture. Freezes very well.
+
+=== Apple Orchard Bread Pudding
+cat: Desserts
+serves: about 6
+from: Carnation
+scan: Apple Orchard Bread Pudding.jpg
+bake: 350F 60-65 square-8
+pre: Preheat oven to 350°F
+pre: Grease an 8-inch square or 9-inch round baking dish
+- 7 slices raisin bread, cubed (5 cups)
+- 2 cups apple, peeled, cored and chopped (2–3 apples)
+- 3 eggs
+- 1 can (385 mL) 2% evaporated milk
+- 1 cup water
+- 2/3 cup granulated sugar
+- 1 tsp vanilla
+- 1/2 tsp cinnamon
+- 1/3 cup chopped pecans (optional)
+- maple syrup, warmed
+* combine in a large bowl | 1 2
+* beat in a large bowl | 3
+> stir in | 4-8
+* pour over bread, moistening completely | s1 s3
+> place in baking dish; sprinkle with nuts | 9
+> set dish in a larger pan; add hot water 1 inch up the sides
+> {bake}, until set and golden
+> serve warm with maple syrup | 10
+note: To test the custard, insert a knife in the centre — it should come out clean. Not recommended for freezing.

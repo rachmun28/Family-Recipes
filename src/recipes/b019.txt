@@ -1,0 +1,158 @@
+=== Jam Sandwich Cookies
+cat: Cookies
+serves: about 24 filled cookies
+scan: Jam Sandwich Cookies.jpg
+bake: 350F 8-10 sheet
+pre: Preheat oven to 350°F
+pre: Lightly grease baking sheets
+- 1/2 cup butter
+- 1/2 cup packed brown sugar
+- 1/4 cup honey
+- 1 egg
+- 1/2 tsp vanilla
+- 1 3/4 cups all-purpose flour
+- 1 tsp baking soda
+- 1/4 tsp salt
+- apricot or raspberry jam
+* cream together | 1-3
+> beat in | 4 5
+* combine | 6-8
+* blend into creamed mixture | s2 s3
+> chill dough 30 min
+> shape into 1-inch balls; place on sheets; flatten with a floured fork or glass
+> {bake}, until golden
+> cool on sheets a few minutes, then on racks
+> sandwich pairs with | 9
+
+=== Key Lime Pie (Light)
+cat: Pies & Tarts
+serves: 8
+from: Prevention
+scan: Key Lime Pie.jpg
+pre: Preheat oven to 375°F
+pre: Coat a 9-inch pie plate with cooking spray
+--- Crust
+- 1 egg white, lightly beaten
+- 1 1/2 cups crumbled gingersnaps
+- 1 1/2 tbsp butter or margarine, melted
+- 1 1/2 tbsp canola oil
+* mix | 1-4
+> press over the bottom and up the sides of the pie plate
+> bake 8–10 min until lightly browned; cool on a rack
+--- Filling
+- 1/2 cup Key lime juice
+- 1 tbsp grated lime rind
+- 1 can (14 oz) nonfat sweetened condensed milk
+- 2 egg yolks
+- 4 egg whites
+- 1/4 tsp cream of tartar
+- 1/2 cup sugar
+- 1 tsp cornstarch
+* mix | 1 2
+> whisk in | 3 4
+* beat until foamy | 5 6
+* combine | 7 8
+* gradually beat into whites until stiff peaks | s3 s4
+* fold ¾ cup of the whites into lime mixture | s2 s5
+> pour into crust; bake 15 min | p1
+> spread the rest of the whites over the filling to the edges
+> bake 10 min until golden and set
+> cool completely; refrigerate 1–2 hrs
+note: Bottled Key lime juice, or regular lime juice, works fine.
+
+=== Kipfel
+cat: Cookies
+serves: 8 dozen
+from: Dorothy McArthy
+scan: Kipfl - Dorothy McArthy.jpg
+bake: 350F 10-15 sheet
+--- Dough
+- 4 cups flour
+- 2 cups butter or margarine
+- 4 egg yolks, beaten
+- 1 cup sour cream
+* work together with a pastry blender until crumbly | 1 2
+> add; blend until a dough forms | 3 4
+> divide into 8 balls; refrigerate 6 hrs
+--- Filling
+- 4 egg whites
+- 1/2 cup sugar
+- 1 tsp almond extract
+- 1 lb walnuts, ground
+* beat till stiff | 1
+> add while beating | 2 3
+> stir in | 4
+--- Shape & bake
+- icing sugar (optional)
+* preheat oven to 350°F; roll one ball into a 10-inch circle on a floured surface | p1
+> cut into 12 wedges like a pie
+> put a teaspoon of filling on each wedge | p2
+> roll from the wide edge toward the point into a crescent
+> place 1 inch apart on a cookie sheet; repeat with the remaining dough
+> {bake}, until lightly browned
+> dust warm cookies with | 1
+
+=== Lancia Style Lasagne
+cat: Pasta & Rice
+serves: 6-8
+from: Lancia
+scan: Lasagne-Lancia.jpg
+bake: 350F 45 rect-13x9
+pre: Preheat oven to 350°F
+- 1 lb ground beef
+- 3/4 cup chopped onion
+- 1 clove garlic, finely chopped
+- 1 can (28 oz) spaghetti sauce
+- 1/2 tsp salt
+- 1/2 tsp dried oregano
+- 9 lasagne noodles
+- 1 1/2 cups cottage or ricotta cheese
+- 3 cups grated mozzarella cheese
+- 1/4 cup grated Parmesan cheese
+* brown in a frying pan | 1
+> add; cook until tender | 2 3
+> add; simmer 20 min | 4-6
+* cook as the package directs | 7
+* combine | 8 9
+* spread a thin layer of sauce in a 13 × 9 × 2-inch pan; layer ⅓ each of noodles, sauce and cheese — repeat twice | s3 s4 s5
+> sprinkle with | 10
+> {bake}
+> let stand 10 min before serving
+
+=== Leftover Turkey Turnovers
+cat: Appetizers
+serves: 16 turnovers
+from: Amber Dowling (Bell holiday feature, 2009)
+scan: Leftover Turkey Turnovers.jpg
+- 1/2 cup walnut pieces
+- 2 cups shredded leftover turkey
+- 1 small Granny Smith apple, diced
+- 6-8 oz brie cheese, cubed
+- ground cinnamon, to taste
+- 2 pkg refrigerated crescent rolls
+- 32 whole walnut halves
+* toast in a dry pan until just brown; cool | 1
+* combine in a large bowl | 2-4 s1
+> season with | 5
+* unroll; slit each triangle in half (16 triangles) | 6
+* spoon a teaspoon of filling onto each triangle; bring the corners up to wrap | s3 s4
+> top each with a walnut | 7
+> bake as the crescent package directs; serve warm
+note: Craisins can replace the apple, and pecans the walnuts.
+
+=== Miracle Lemon Basil Chicken
+cat: Chicken & Poultry
+serves: 4
+from: Kraft
+scan: Lemon Basil Chicken.jpg
+bake: 350F 20 rect-13x9
+pre: Preheat oven to 350°F
+- 1 cup Miracle Whip salad dressing
+- 2 tbsp lemon juice
+- 1 tsp honey mustard
+- 1 tsp dried basil
+- 4 boneless skinless chicken pieces
+* combine | 1-4
+> spread on | 5
+> {bake}
+note: Dijon can replace the honey mustard; Miracle Whip Light works too.

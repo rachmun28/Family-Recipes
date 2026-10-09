@@ -1,0 +1,204 @@
+=== Upside-Down Apple Cupcakes
+cat: Cakes
+serves: 12
+from: Robin Hood
+scan: Upside Down Apple Cupcakes.jpg
+bake: 350F 15-20 muffin*12
+pre: Preheat oven to 350°F
+pre: Grease 12 muffin cups
+- 1/4 cup brown sugar
+- 2 tbsp melted butter
+- 1 tbsp water
+- 2-3 thinly sliced, peeled apples
+- 1/2 cup golden raisins
+- 1 pkg date & orange loaf cake mix
+- 2 eggs
+- 3/4 cup water
+- 3 tbsp vegetable oil
+* combine; divide among the muffin cups | 1-3
+> place some apple slices and a few raisins in each | 4 5
+* beat ½ min on low, then 2½ min on medium | 6-9
+* divide batter among the cups | s2 s3
+> {bake}, until a toothpick comes out clean
+> loosen and invert onto racks; serve warm or cool
+
+=== Oh Canada! Veal Chops with Savoury Fruit Relish
+cat: Veal
+serves: 4
+scan: Veal Chops with savoury fruit relish.jpg
+--- Chops
+- 2 tbsp pure maple syrup
+- 1 tbsp grainy mustard
+- 1 tbsp cider vinegar
+- 1/2 tsp salt
+- 1/4 tsp freshly ground black pepper
+- 4 veal rib or loin chops
+* combine in a large shallow dish | 1-5
+> add chops; turn to coat; refrigerate 1–24 hrs | 6
+> grill over medium heat ~4 min per side for medium, brushing with the remaining marinade before turning
+--- Fruit relish
+- 2 tsp vegetable oil
+- 1/2 small onion, finely chopped
+- 1 clove garlic, minced
+- 1 cup chopped rhubarb (fresh or frozen)
+- 1 1/2 cups sliced strawberries, raspberries, blueberries and/or blackberries
+- 1 tbsp pure maple syrup
+- 1/4 tsp salt
+- 1 tbsp chopped fresh basil (optional)
+* heat in a saucepan over medium | 1
+> cook ~3 min, stirring, until softened | 2 3
+> add; boil, then simmer ~10 min, stirring, until soft | 4
+> add; cook, stirring, 2 min until the berries are warm | 5-7
+> remove from heat; cool slightly; stir in | 8
+--- Serve
+* serve chops with the relish | p1 p2
+
+=== Veal La Louisiane
+cat: Veal
+serves: 4
+scan: Veal La Louisiane.jpg
+- 4 slices (2½ oz each) boneless veal
+- salt and freshly ground white pepper
+- all-purpose flour
+- 2 tbsp vegetable oil
+- 1/2 lb mushrooms, sliced
+- 2 cups whipping cream
+- 1/4 cup Madeira
+- 1/4 cup butter, in 12 pieces
+- 4 oz cooked crabmeat
+- 8 jumbo shrimp, peeled, deveined and cooked
+- 4 poached crayfish (optional)
+* pound to ¼ inch; season; dredge lightly in flour | 1-3
+* heat in a large skillet over medium | 4
+> brown veal 45 seconds per side; move to a platter and keep warm | s1
+> add; sauté 5 min | 5
+> add; reduce until thickened, ~15 min; season | 6 7
+> stir in one piece at a time | 8
+> add; heat through ~1 min | 9 10
+> pour over veal; top each slice with a crayfish if you like | 11
+
+=== Escalopes de Veau Madère (Veal or Chicken Madeira)
+cat: Veal
+serves: 12
+scan: Veal or Chicken Madeira.jpg
+- 3/4 cup all-purpose flour
+- 1 tsp salt
+- 3/4 tsp ground pepper
+- 4 lb veal scallopini
+- 1/4-1/2 cup lightly salted butter or margarine
+- 1/2 cup Madeira wine
+- 1/4 cup water
+- 1 tbsp lemon juice, preferably fresh
+- 1/2 tsp minced garlic
+- 3 tbsp lightly salted butter or margarine
+- 1 lb fresh mushrooms, sliced
+- cherry tomatoes and parsley sprigs, to garnish
+* mix; dredge scallopini; shake off excess | 1-4
+* heat ¼ cup in a large skillet over moderately low | 5
+> brown 3 or 4 at a time, 2–3 min per side, adding butter as needed; arrange in a 13 × 9 × 2-inch dish | s1
+> drain the fat; add; cook, stirring and scraping up the brown bits | 6 7
+> add; cook 2–3 min until syrupy | 8 9
+> pour over scallopini
+> melt butter in the skillet; add mushrooms; cook 5–7 min until soft and dry | 10 11
+> spoon over; cover tightly with foil (refrigerate up to 24 hrs if you like)
+> put in a cold oven; turn on to 350°F; bake 40–50 min until very hot
+> garnish just before serving | 12
+note: Chicken version (Escalopes de Volaille Madère): use 4 lb boned, skinned chicken breasts. Loosen the two small fillets, fold them back, cut each breast in half, pound to ⅛ inch between waxed paper and cut each half into 2 small scallopini. Then proceed as above.
+
+=== Veal Parmigiana (Skillet)
+cat: Veal
+serves: 4
+from: Ontario Veal Association
+scan: Veal Parmigiana.jpg
+- 1/2 cup bread crumbs
+- 1/2 cup grated Parmesan cheese
+- 1 lb veal scallopini or cutlets
+- 2 tbsp flour, seasoned with salt and pepper
+- 1 egg, beaten
+- 2 tbsp oil
+- 1 cup tomato or spaghetti sauce
+- pinch each dried thyme and cayenne
+- 1/2 cup grated mozzarella or Parmesan (optional)
+* combine | 1 2
+* coat in flour, then egg, then the crumb mixture | 3-5 s1
+* heat a little in a nonstick skillet over medium-high | 6
+> fry veal 3–4 min per side until browned and cooked; keep warm on a serving dish | s2
+> add to the skillet; boil, then simmer 5 min | 7 8
+> serve over the veal; sprinkle with cheese if you like | 9
+note: Or try it on a bun with grilled vegetables.
+
+=== Veal Roast with Pesto
+cat: Veal
+serves: 6-8
+from: Ontario Veal Association
+scan: Veal Roast with Pesto.jpg
+pre: Preheat oven to 325°F
+--- Roast
+- 4-5 lb veal rib roast
+- 2 cloves garlic, slivered
+- 1/2 tsp each salt and pepper
+* cut tiny slits all over; insert garlic | 1 2
+> sprinkle with | 3
+> place fat side up on a rack in a roasting pan; roast 30 min
+--- Pesto
+- 1 1/2 cups lightly packed fresh basil leaves
+- 1/3 cup freshly grated Parmesan cheese
+- 1/4 cup pine nuts
+- 1/3 cup olive oil
+- 1 clove garlic, minced
+- salt and pepper, to taste
+* finely chop in a food processor | 1-3
+> with the motor running, add oil until a thick paste forms | 4
+> stir in | 5 6
+--- Finish
+- 1 lb baby red potatoes, scrubbed and pierced
+- 1 lb baby carrots
+- 1 lb asparagus
+* spread half the pesto over the veal | p1 p2
+* toss with the remaining pesto | 1 2
+* add to the pan; roast 1½–2 hrs longer, until 150°F inside for medium-rare | s1 s2
+> move the roast to a board; tent with foil; rest 15 min
+> remove the rack; add asparagus; raise to 400°F; roast ~10 min until tender-crisp | 3
+> serve vegetables with the sliced veal
+
+=== Veal with Prosciutto & Parmesan
+cat: Veal
+serves: 4-5
+scan: Veal with Proscuitto and Parmesean.jpg
+- 1 1/4 lb veal scallopini, pounded thin
+- 3/4 cup flour, with pepper
+- 1/4 lb butter
+- 1 tbsp oil
+- 1/4 lb prosciutto
+- 2 tbsp grated Parmesan
+- 4 oz Parmesan, thinly sliced
+- 2/3 cup Marsala
+* dredge in | 1 2
+* heat | 3 4
+> brown veal; lay flat in a baking pan | s1
+> cover with | 5
+> add a layer of grated, then sliced Parmesan | 6 7
+> deglaze the frying pan with Marsala; pour over the veal | 8
+> just before serving, bake on the top rack at 400°F 6–8 min
+
+=== Mom's Vegetable Soup
+cat: Soups & Stews
+serves: a big pot
+from: Mom
+scan: Vegetable Soup (Mom).jpg
+- soup bones
+- water to almost fill a large pot
+- salt and pepper
+- onions and carrots
+- cubed carrots, potatoes and onions
+- pork 'n' beans or white beans
+- celery
+- dried soup vegetables
+- tomato juice or V8
+* put in a large pot | 1 2
+> add | 3 4
+> cook, cook, cook
+> take the meat out and chop it; strain the broth; let sit overnight
+> take off the fat
+> add, with the chopped meat | 5-9
+> simmer until the vegetables are tender

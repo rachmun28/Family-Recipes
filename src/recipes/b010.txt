@@ -1,0 +1,345 @@
+=== Chocolate-Covered Cherry Cookies
+cat: Cookies
+serves: 48 cookies
+from: Better Homes and Gardens
+scan: Chocolate Covered Cherry Cookies.jpg
+bake: 350F 10 sheet
+pre: Preheat oven to 350°F
+- 1 1/2 cups all-purpose flour
+- 1/2 cup unsweetened cocoa powder
+- 1/2 cup butter or margarine
+- 1 cup sugar
+- 1/4 tsp salt
+- 1/4 tsp baking powder
+- 1/4 tsp baking soda
+- 1 egg
+- 1 1/2 tsp vanilla
+- 48 maraschino cherries, undrained (about one 10-oz jar)
+- 1 pkg (6 oz) semi-sweet chocolate pieces
+- 1/2 cup sweetened condensed milk
+* combine; set aside | 1 2
+* beat ~30 s until softened | 3
+> add; beat until well combined | 4-7
+> add; beat well | 8 9
+> gradually beat in | s1
+> shape into 1-inch balls on an ungreased sheet; press each centre with your thumb
+* drain, reserving the juice | 10
+* place a cherry in the centre of each cookie | s6 s7
+* heat in a small saucepan until melted | 11 12
+> stir in 4 tsp reserved cherry juice
+* spoon ~1 tsp frosting over each cherry, spreading to cover (thin with more juice if needed) | s8 s10
+> {bake}, until done
+> cool on a wire rack
+note: Cover and store at room temperature up to 2 days.
+
+=== Wow, Chocolate Crackles
+cat: Cookies
+serves: about 3 dozen
+from: Baker's
+scan: Chocolate Crackle Cookies.jpg
+bake: 325F 12-15 sheet
+pre: Preheat oven to 325°F
+pre: Grease baking sheets
+- 2 eggs
+- 1 cup sugar
+- 1 tsp vanilla
+- 3 squares (3 oz) unsweetened chocolate, melted and cooled
+- 2 cups finely chopped pecans
+- 1/4 cup dry bread crumbs
+- 2 tbsp all-purpose flour
+- 1/8 tsp salt
+- 1/4 cup icing sugar
+* beat until well blended | 1-3
+> stir in; mix well | 4-8
+> chill until firm enough to handle
+> form into 1½-inch balls
+> roll in | 9
+> place on sheets; {bake} (they'll be soft and cracked on top)
+> cool
+note: Store in a tightly covered container.
+
+=== Chocolate Lime Mousse Dessert
+cat: Desserts
+serves: about 8
+from: Robin Hood
+scan: Chocolate Lime Mousse Dessert.jpg
+bake: 350F 20-25 springform-10
+pre: Preheat oven to 350°F
+pre: Grease a 10-inch springform pan
+--- Chocolate base
+- 1/2 cup margarine
+- 3 squares unsweetened chocolate
+- 1 1/4 cups granulated sugar
+- 3 eggs
+- 2/3 cup all-purpose flour
+- 1/4 tsp baking powder
+* melt | 1 2
+> add, stirring until smooth | 3-6
+> spread in pan
+> {bake}, just until set
+> cool in pan
+--- Lime mousse topping
+- 1 envelope unflavoured gelatine
+- 1/2 cup granulated sugar
+- 4 egg yolks
+- 1/2 cup lime juice
+- 2 tsp grated lime rind
+- 4 egg whites
+- 1/2 cup granulated sugar
+- 1/2 cup whipping cream, whipped
+* combine in a small saucepan | 1-4
+> cook over medium heat, stirring, until slightly thickened, ~5 min
+> stir in | 5
+> chill just until it starts to set
+* beat to stiff peaks | 6 7
+* fold in gently but thoroughly | s4 s5 8
+--- Assemble
+- lime slices
+* spread mousse over brownie base | p1 p2
+> chill until set, 3 hrs or overnight
+> decorate with | 1
+note: Quick base: bake a chocolate-chip brownie mix as above. Not recommended for freezing.
+
+=== Chocolate Mousse Pie
+cat: Pies & Tarts
+serves: 10-12
+from: TV Guide, March 1983
+scan: Chocolate Mousse Pie.jpg
+--- Chocolate crust
+- 2 1/2 cups chocolate wafer crumbs
+- 1/2 cup butter, melted
+- 1/2 tsp cinnamon
+* combine | 1-3
+> press on bottom and up the sides of a 10-inch springform pan
+> chill at least 30 min
+--- Mousse filling
+- 16 oz semi-sweet chocolate
+- 1/4 cup butter
+- 1/2 cup icing sugar
+- 5 egg yolks
+- 2 cups whipping cream
+- 5 egg whites
+- 1 tbsp vanilla or rum
+* melt in a double boiler over simmering water, stirring; cool to room temperature | 1
+* cream together | 2 3
+> add; beat until blended | 4
+> beat in until smooth and creamy | s1 7
+* whip until soft peaks | 5
+* beat until stiff but not dry | 6
+* stir in a little to lighten, then fold in the rest | s4 s5 s6
+--- Chocolate leaves
+- 8 oz semi-sweet chocolate
+- rose or holly leaves
+* melt in a double boiler; cool until lukewarm | 1
+> generously coat the backs of leaves on waxed paper | 2
+> chill until firm; peel off the leaves
+--- Topping & assembly
+- 1 cup whipping cream
+- sugar, to taste
+- 1 tsp vanilla
+- candied violets (optional)
+* turn filling into crust; chill at least 8 hrs | p1 p2
+> loosen crust and remove the springform rim; place on a serving plate
+* whip until stiff | 1-3
+* pipe rosettes around the edge and in the centre (medium star tip) | s2 s3
+> garnish with violets and chocolate leaves | 4 p3
+
+=== Chocolate-Raspberry Torte
+cat: Cakes
+serves: 10
+from: Regan Daley, In the Sweet Kitchen
+scan: Chocolate Raspberry Torte.jpg
+bake: 350F 50-60 round-9
+pre: Preheat oven to 350°F
+pre: Grease a 9-inch round pan, line the bottom with parchment, grease the paper and dust with flour
+--- Cake
+- 5 1/2 oz semi-sweet chocolate, chopped
+- 3 oz unsweetened chocolate, chopped
+- 2/3 cup unsalted butter, cut into small pieces
+- 1/2 cup seedless raspberry jam
+- 4 large eggs
+- 3/4 cup granulated sugar
+- 1 tbsp raspberry liqueur
+- 1 tsp vanilla or raspberry extract
+- 1/2 cup all-purpose flour
+- 3/4 tsp baking powder
+- 1/4 tsp salt
+* melt in a bowl over barely simmering water, stirring | 1-3
+> when almost melted add jam; turn off heat; stir until smooth; cool slightly | 4
+* beat with a mixer until thick, pale and ribbony | 5 6
+> beat in | 7 8
+* stir together with a fork | 9-11
+* beat cooled chocolate into the egg mixture until smooth | s2 s4
+> fold in | s5
+> scrape into pan; smooth top
+> {bake} in the centre, until cracked on top and a skewer through a crack has a few moist crumbs
+> cool in pan 10 min; invert onto a rack; peel off paper; place on a platter
+--- Raspberry syrup
+- 1/2 cup granulated sugar
+- 1 tbsp corn syrup
+- 1/4 cup water
+- 1/4 cup raspberry liqueur
+* stir in a small heavy saucepan over medium-low until sugar dissolves | 1-3
+> bring to a boil; boil 30 s without stirring
+> remove from heat; cool 5 min; stir in; cool | 4
+--- Serve
+- about 2 cups fresh raspberries
+- 1 ripe mango, peeled and diced
+* brush top and sides of the warm cake with syrup | p1 p2
+* stir into remaining syrup no more than 2–3 hrs before serving | 1 2
+* spoon around each wedge; drizzle with syrup | s1 s2
+note: The syrup can be made up to 3 days ahead. The brushed cake keeps 1 day at room temperature, 3 days refrigerated, or can be frozen.
+
+=== Chocolate Roulade
+cat: Desserts
+serves: 1 roll (10 slices)
+from: Best of Baking (Chipits / Five Roses)
+scan: Chocolate Roulade.jpg
+pre: Preheat oven to 350°F
+pre: Grease a 17 × 14-inch jelly roll pan and line with waxed paper
+--- Cake
+- 5 egg yolks
+- 1/2 cup granulated sugar
+- 5 egg whites
+- 1/4 cup granulated sugar
+- 1/2 cup all-purpose flour
+- 1/4 cup cocoa
+- 1 tsp baking powder
+- 3/4 cup semi-sweet or jumbo chocolate chips
+* beat 3 min until thickened | 1 2
+* beat until soft peaks | 3
+> gradually add; beat until stiff & shiny | 4
+* sift together | 5-7
+* fold yolks into whites alternately with cocoa mixture | s3 s1 s4
+> spread evenly in pan
+> sprinkle with | 8
+> bake at 350°F 15–20 min
+> turn out onto a clean tea towel dusted with cocoa; remove paper; cool
+--- Chocolate cream
+- 2 cups Nutriwhip (whipped topping)
+- 1 cup semi-sweet chocolate chips, melted
+* beat until it begins to thicken | 1
+> add gradually; beat until stiff | 2
+--- Assemble
+- semi-sweet or jumbo chips, to garnish
+* spread half the cream over the cake; roll up jelly-roll fashion | p1 p2
+> cover the outside with the remaining cream
+> garnish with | 1
+
+=== Chocolate Rum Balls
+cat: Candy & Fudge
+serves: about 3 dozen
+scan: Chocolate Rum Balls.jpg
+- 1/2 cup butter
+- 1/2 cup icing sugar
+- 3/4 cup chocolate chips
+- 2 eggs
+- pinch salt
+- 2 tbsp dark rum
+- 1 3/4 cups graham crumbs
+- chocolate shot or coconut
+* melt in a double boiler | 1-3
+* beat | 4
+* add, with salt; stir until thick and smooth | s1 s2 5
+> remove from heat; add | 6 7
+> chill till stiff
+> form into balls; roll in | 8
+
+=== Bacardi Double-Chocolate Rum Cake
+cat: Cakes
+serves: 12-16
+from: Bacardi
+scan: Chocolate Rum Cake.jpg
+bake: 350F 50 bundt-10
+pre: Preheat oven to 350°F
+pre: Grease a 12-cup Bundt, 10-inch tube or 10-inch springform pan
+--- Cake
+- 1 pkg (18½ oz) chocolate cake mix
+- 1 pkg (3½ oz) chocolate instant pudding mix
+- 4 eggs
+- 1/2 cup spiced rum
+- 3/4 cup water
+- 1/2 cup vegetable oil
+- 1 cup semi-sweet chocolate chips
+* beat at low speed until moistened, then medium 2 min | 1-6
+> stir in | 7
+> pour into pan; {bake}, until a skewer comes out clean
+> cool in pan 15 min; remove; cool on a rack; place on a plate
+--- Raspberry glaze
+- 1 cup raspberry preserves
+- 1/2 cup spiced rum
+* heat in a small saucepan | 1 2
+> strain to remove seeds
+--- Chocolate icing
+- 1 cup semi-sweet chocolate chips
+- 2 tbsp shortening
+* microwave on medium-high ~1 min until melted; stir smooth | 1 2
+--- Finish
+- 1 oz white chocolate, melted
+* prick cake; brush with glaze, letting it soak in; repeat until all used | p1 p2
+> spoon icing over cake; let stand 10 min | p3
+> drizzle with | 1
+
+=== Chocolate Sour Cream Layer Cake
+cat: Cakes
+serves: 12
+from: Robin Hood
+scan: Chocolate Sour Cream Layer Cake.jpg
+bake: 350F 35 round-9*2
+pre: Preheat oven to 350°F
+pre: Grease two 9-inch round pans and line with waxed paper
+--- Cake
+- 2 cups all-purpose flour
+- 2 cups granulated sugar
+- 1 1/4 tsp baking soda
+- 1 tsp salt
+- 1/2 tsp baking powder
+- 1/4 cup shortening
+- 3/4 cup sour cream
+- 2 eggs
+- 1 cup water
+- 4 squares unsweetened chocolate, melted and cooled
+- 1 tsp vanilla
+* combine in a large mixer bowl | 1-5
+> add | 6-11
+> beat on low 30 s, then high 3 min
+> divide between pans; {bake}, until a toothpick comes out clean
+> cool 10 min; remove from pans; cool completely
+> split each layer in half
+--- Frosting
+- 3 squares semi-sweet chocolate
+- 3 tbsp butter
+- 3/4 cup sour cream
+- 4 1/2-5 cups sifted icing sugar
+- 2 tsp vanilla
+* heat on low until smoothly melted | 1 2
+* combine in a mixer bowl | 3 4
+* beat in, with the vanilla, until smooth | s1 s2 5
+--- Assemble
+* spread frosting between the layers and on top | p1 p2
+note: 2¼ cups cake & pastry flour can replace the all-purpose flour.
+
+=== Chocolate Chip Toll House Cookies
+cat: Cookies
+serves: 50 two-inch cookies
+scan: Chocolate Toll House Cookies Pg1.jpg
+scan: Chocolate Toll House Cookies Pg2.jpg
+bake: 375F 8-10 sheet
+pre: Preheat oven to 375°F
+- 1 cup plus 2 tbsp unsifted flour
+- 1/2 tsp baking soda
+- 1/2 tsp salt
+- 1/2 cup butter, soft
+- 6 tbsp sugar
+- 6 tbsp brown sugar
+- 1/2 tsp vanilla
+- 1 egg
+- 6 oz (1 cup) chocolate chips
+- 1/2 cup chopped nuts
+* combine | 1-3
+* beat till creamy | 4-7
+> beat in | 8
+> gradually add; mix well | s1
+> stir in | 9 10
+> drop by rounded teaspoons onto ungreased cookie sheets
+> {bake}
