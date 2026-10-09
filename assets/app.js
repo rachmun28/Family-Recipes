@@ -2,7 +2,7 @@
 (() => {
 'use strict';
 
-const CFG = Object.assign({ title: 'Family Recipe Box', repo: '', branch: 'main' }, window.COOKBOOK_CONFIG || {});
+const CFG = Object.assign({ title: 'Munro Family Recipes', repo: '', branch: 'main' }, window.COOKBOOK_CONFIG || {});
 const REPO_OK = /^[\w.-]+\/[\w.-]+$/.test(CFG.repo) && !/YOUR-GITHUB-NAME/.test(CFG.repo);
 
 /* ------------------------------------------------------------------ utils */
@@ -1073,7 +1073,7 @@ function viewEditor(id, prefill, banner) {
     ${!existing && !prefill ? `<details class="bakebox" id="importbox"><summary>Copying a recipe from a website? <span class="orig">Paste it here and the form fills itself in</span></summary><div class="bakebody">
       <label class="field"><span>Paste the recipe</span><textarea id="imp-text" rows="7" placeholder="On the recipe website, select everything from the title down to the last step, copy it, and paste it here."></textarea></label>
       <div class="btnrow"><button class="btn primary" id="imp-go">Fill in the form</button></div>
-      <p class="hint">On a computer it’s even quicker: add the <a href="#/settings">“Add to Recipe Box” bookmark</a>, then click it on any recipe page.</p>
+      <p class="hint">On a computer it’s even quicker: add the <a href="#/settings">“Add to Munro Recipes” bookmark</a>, then click it on any recipe page.</p>
     </div></details>` : ''}
     <div class="editor">
       <div class="panel">
@@ -1379,7 +1379,7 @@ function viewSettings() {
       </section>
       <section class="panel wide">
         <h2>Add recipes from other websites</h2>
-        <p>Drag this button to your browser’s bookmarks bar: <a class="btn primary" id="bm" href="${esc(bookmarkletSource(location.href.split('#')[0]))}" draggable="true" onclick="event.preventDefault()">+ Add to Recipe Box</a></p>
+        <p>Drag this button to your browser’s bookmarks bar: <a class="btn primary" id="bm" href="${esc(bookmarkletSource(location.href.split('#')[0]))}" draggable="true" onclick="event.preventDefault()">+ Add to Munro Recipes</a></p>
         <p class="hint">Then, on any recipe page (Allrecipes, Food Network, Canadian Living, most blogs), click that bookmark. The recipe opens here already filled in, ready to check and save. If a site has no recipe data, select the recipe text first and click it again.</p>
         <p class="hint">Can’t drag it? <button class="btn small" id="bmcopy">Copy the bookmark code</button>, make a new bookmark and paste it as the address. On a phone, use “Copying a recipe from a website?” on the Add recipe page instead.</p>
       </section>
