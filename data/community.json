@@ -1,1 +1,88 @@
-[]
+[
+ {
+  "title": "Best Ever Banana Muffins",
+  "id": "best-ever-banana-muffins",
+  "category": "Breads & Muffins",
+  "serves": "12",
+  "pre": [
+   "Preheat your oven to 375 degrees Fahrenheit and line your muffin tin with 12 paper muffin cups (or spray with PAM)"
+  ],
+  "parts": [
+   {
+    "ingredients": [
+     "3 ripe bananas",
+     "3/4 cup white sugar",
+     "1 egg",
+     "1/3 cup vegetable oil",
+     "1 tsp Almond Extract",
+     "1 1/2 cups all purpose flour",
+     "1 tsp baking soda",
+     "1 tsp baking powder",
+     "1/2 tsp salt",
+     "1/2 C chocolate chips (optional)"
+    ],
+    "steps": [
+     {
+      "t": "In a large mixing bowl, mash the bananas with a fork until no large pieces remain.",
+      "in": [
+       "i0"
+      ]
+     },
+     {
+      "t": "Add the sugar, egg and oil and mix with a wooden spoon until everything is incorporated.",
+      "in": [
+       "i1",
+       "i2",
+       "i3",
+       "i4",
+       "s0"
+      ]
+     },
+     {
+      "t": "Measure the flour, baking powder, baking soda and salt on top of the wet ingredients and stir them gently with a fork.",
+      "in": [
+       "i5",
+       "i6",
+       "i7",
+       "i8",
+       "s1"
+      ]
+     },
+     {
+      "t": "Using a wooden spoon, carefully mix the wet and the dry ingredients together. The danger here is over-mixing which will result in dense, flat and dry muffins. The best technique for mixing is to scoop underneath the mixture and pull up gently instead of stirring around in a circle (like you’d stir y",
+      "in": [
+       "s2",
+       "i9"
+      ]
+     },
+     {
+      "t": "Spoon the batter into 12 lined muffin cups. Try your best to ensure you fill the cups evenly. This will ensure each of the muffins is finished baking at the same time (you don’t want some over-baked and some raw in the middle!)",
+      "in": [
+       "s3"
+      ]
+     },
+     {
+      "t": "Bake the muffins in the oven at 375 degrees for about 17 minutes (anywhere from 22-25 minutes, depending on your oven), or until they are golden brown.",
+      "in": [
+       "s4"
+      ]
+     },
+     {
+      "t": "Let them cool in the tins for about 5 minutes and then turn them out of the tins to let them cool completely on a cooling rack. Or, enjoy one warm from the oven.",
+      "in": [
+       "s5"
+      ]
+     }
+    ]
+   }
+  ],
+  "bake": {
+   "temp": 375,
+   "unit": "F",
+   "min": 17,
+   "max": 17,
+   "pan": "muffin",
+   "count": 12
+  }
+ }
+]
