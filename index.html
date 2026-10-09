@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Family Recipe Box</title>
+<meta name="description" content="Family recipes in an at-a-glance table format, with scaling, unit conversion and bake-time adjustment.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect x='6' y='16' width='52' height='40' rx='6' fill='%232f7d32'/%3E%3Crect x='14' y='8' width='36' height='20' rx='3' fill='%23fbf8f1' stroke='%232f7d32' stroke-width='3'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Fraunces:opsz,wght@9..144,500;9..144,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/app.css">
+<script src="config.js"></script>
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="#/"><span class="brand-mark" aria-hidden="true"></span><span id="brand-title">Family Recipe Box</span></a>
+  <nav class="topnav">
+    <a href="#/" data-nav="home">Recipes</a>
+    <a href="#/tools" data-nav="tools">Kitchen tools</a>
+    <a href="#/add" data-nav="add" class="btn-add">+ Add recipe</a>
+  </nav>
+</header>
+<main id="app" tabindex="-1"><p class="loading">Loading recipes…</p></main>
+<footer class="foot">
+  <a href="#/settings">Settings &amp; sharing</a>
+  <span>·</span>
+  <a href="#/help">How the recipe tables work</a>
+</footer>
+<dialog id="lightbox" class="lightbox">
+  <form method="dialog"><button class="lb-close" aria-label="Close">✕</button></form>
+  <div class="lb-body"></div>
+</dialog>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<script src="assets/app.js" charset="utf-8"></script>
+</body>
+</html>
