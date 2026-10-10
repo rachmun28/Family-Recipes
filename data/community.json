@@ -244,5 +244,74 @@
    "pan": "muffin",
    "count": 12
   }
+ },
+ {
+  "title": "Swiss Meringue Buttercream",
+  "id": "swiss-meringue-buttercream",
+  "category": "Icings & Sauces",
+  "serves": "5 cups",
+  "from": "sallysbakingaddiction.com",
+  "notes": [
+   "Source: https://sallysbakingaddiction.com/swiss-meringue-buttercream/"
+  ],
+  "parts": [
+   {
+    "ingredients": [
+     "6 large egg whites (approximately 180g)",
+     "2 cups (400g) granulated sugar",
+     "1 and 1/2 cups (340g) unsalted butter, softened but still cool and cut into Tbsp size pieces (*see note*)",
+     "2 teaspoons pure vanilla extract",
+     "1/8 teaspoon salt"
+    ],
+    "steps": [
+     {
+      "t": "If you haven't done so yet, separate the eggs first. Separate 1 egg white in a small bowl, then place the egg white in your heatproof mixing bowl. Repeat with the remaining egg whites. This way, if a yolk breaks in one of them, you don’t waste the whole batch.",
+      "in": [
+       "i0"
+      ]
+     },
+     {
+      "t": "Whisk sugar into the egg whites, then set the bowl over a saucepan filled with just two inches of simmering water over medium heat. Do not let the bottom of the egg whites bowl touch the water. Whisk the whites and sugar constantly until sugar is dissolved and mixture has thinned out, about 4 minute",
+      "in": [
+       "s0",
+       "i1"
+      ]
+     },
+     {
+      "t": "No need to let it cool down to start this next step—it's important to begin mixing while it is still warm. Transfer mixture to the bowl of a stand mixer fitted with a whisk attachment (if you aren't already using the metal bowl that comes with it). You can use a hand mixer instead, but this step tak",
+      "in": [
+       "s1"
+      ]
+     },
+     {
+      "t": "If the bowl and meringue still feel warm, wait until both cool to room temperature (around 70°F (21°C)) before adding the butter in the next step. Feel free to place it in the refrigerator. A warm bowl and meringue will melt the butter.",
+      "in": [
+       "s2",
+       "i2"
+      ]
+     },
+     {
+      "t": "Switch the stand mixer to the paddle attachment. On medium-high speed, add the butter 1 Tablespoon at a time. Wait for the butter to fully mix in before adding the next Tablespoon. After all the butter has been added, turn the mixer down to medium speed and fully beat in the vanilla and salt, about ",
+      "in": [
+       "s3",
+       "i3",
+       "i4"
+      ]
+     },
+     {
+      "t": "Your Swiss meringue buttercream should be thick, creamy, and silky smooth and is ready to use on any cake, cupcake, or other confection.",
+      "in": [
+       "s4"
+      ]
+     },
+     {
+      "t": "If your meringue has separated, curdled, or is too thick at any point after you mix in all of the butter, place the mixture in your heat-proof bowl back over a pot of 2 inches of simmering water. Without stirring, let the edges of the meringue warm up and become liquid (the center of the meringue wi",
+      "in": [
+       "s5"
+      ]
+     }
+    ]
+   }
+  ]
  }
 ]
